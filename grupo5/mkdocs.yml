@@ -1,8 +1,13 @@
-site_name: My Docs
+site_name: Grupo 5
 
 theme:
   name: material
   language: pt
+  logo: ./assets/logo.png
+  font:
+    text: Roboto
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.indexes
+    - toc.integrate
+  
