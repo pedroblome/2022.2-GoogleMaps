@@ -1,4 +1,4 @@
-site_name: Grupo 5
+site_name: UnB HUB
 
 theme:
   name: material
@@ -10,4 +10,3 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - toc.integrate
-  
