@@ -1,4 +1,4 @@
-site_name: UnB HUB
+site_name: Grupo 5
 
 theme:
   name: material
@@ -6,7 +6,16 @@ theme:
   logo: ./assets/logo.png
   font:
     text: Roboto
+
   features:
     - navigation.tabs
     - navigation.indexes
-    - toc.integrate
+
+nav:
+  - Equipe: index.md
+  - Planejamento:
+      - Planejamento: planejamento/planejamento.md
+      - Cronograma: planejamento/cronograma.md
+  - Elicitação: elicitacao.md
+  - Encontros: enconntros.md
+  - Entregas: entregas.md
