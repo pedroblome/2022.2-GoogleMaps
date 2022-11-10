@@ -12,10 +12,14 @@ Para realizar a escolha de um aplicativo a ser utilizado no decorrer da discipli
 * Rastreabilidade: buscamos entender se o aplicativo possui informações de fácil acesso sobre sua origem
 * Documentação do projeto: buscamos um que tivesse a possibilidade da equipe poder coletar novos requisitos além dos já elencados
 
+Levando em consideração todos esses pontos, a equipe entrou em acordo de que a melhor opção dentre os selecionados será o UnB HUB, em que há um público de maior facilidade para auxiliar no desenvolvimento do projeto, não tem todos os requisitos bem definidos e conseguimos identificar a sua origem.
+
 ## 3. Histórico de Versões
 
-| Data | Versão | Descrição | Autor |
-| :--: | :----: | :-------: | :---: |
+| Data | Versão | Descrição | Autor | Revisor |
+| :--: | :----: | :-------: | :---: | :---: |
 | 08/11/2022 | 0.1 | Criação da página de Rich Picture | Luíza |
 
 ## 3. Bibliografia
+
+Introducing Rich Pictures, CTEC2402 - Software Development Project. Acesso em nov. de 2022.
