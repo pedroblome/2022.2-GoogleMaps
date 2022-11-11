@@ -16,8 +16,8 @@ O Sinesp Cidadão é um aplicativo desenvolvido para o Sistema Nacional de Infor
   <figcaption>Fonte: Iago de Sousa</figcaption>
 </figure>
 
-### 2. CNH Online
-A CNH Online é um aplicativo que permite o usuário a acessar a sua habilitação digitalmente, além de verificar infrações, veículos em seu nome e tirar dúvidas. A Figura 2 mostra o desenvolvimento do Rich Picture do aplicativo:
+### 2. Carteira Digital de Trânsito
+A Carteira Digital de Trânsito é um aplicativo que permite o usuário a acessar a sua habilitação digitalmente, além de verificar infrações, veículos em seu nome e tirar dúvidas. A Figura 2 mostra o desenvolvimento do Rich Picture do aplicativo:
 
 
 ![Lucas Felipe](../assets/richPictures/LucasRich.jpg)
@@ -69,13 +69,14 @@ O UnB HUB é um aplicativo que permite encontrar uma série de informações sob
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--: | :----: | :-------: | :---: | :---: |
-| 08/11/2022 | 0.1 | Criação da página | Luíza |
+| 08/11/2022 | 0.1 | Criação da página | Luíza || Marcus |
+| 10/11/2022 | 0.1 | Alteração na definição do aplicativo | Luíza || Marcus |
 
 ## Referências Bibliográficas
 
 [Cinesp](https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=US&pli=1)
 
-[CNH Online](https://www.detran.mg.gov.br/habilitacao/emissao-de-documentos-de-habilitacao/cnh-digital-1)
+[Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt)
 
 [FGTS](https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&gl=US)
 
