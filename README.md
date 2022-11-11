@@ -1,15 +1,15 @@
 # 2022.2-Carteira-Digital-Trânsito
 
-Este repositório é destinado a aplicação [** Carteira Digital de Trânsito**](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2022/2.
+Este repositório é destinado a aplicação [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2022/2.
 
 ## Sobre o Projeto
 
 Repositório destinado ao desenvolvimento do projeto da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA).
-Nele estará mantido todo o processo de desenvolvimento da disciplina, em que foi escolhido o aplicativo UnB Hub como material de estudo do grupo.
+Nele estará mantido todo o processo de desenvolvimento da disciplina, em que foi escolhido o aplicativo Carteira Digital de Trânsito como material de estudo do grupo.
 
 ## Sobre a Carteira Digital de Trânsito
 
-A Carteira Digital de Trânsito (CDT) é um aplicativo que facilita a utilização de documentos eletrênicos para diversos finalidades, podendo tanto mexer com a documentação do motorista quanto do carro.
+A Carteira Digital de Trânsito (CDT) é um aplicativo que facilita a utilização de documentos eletrênicos para diversos finalidades, podendo tanto mexer com a documentação do motorista, como a CNH, quanto do carro, como o CRLV.
 
 ## Documentação
 
