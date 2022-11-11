@@ -1,4 +1,6 @@
 # 2022.2-Carteira-Digital-Trânsito
+<img width="400" src="https://github.com/Requisitos-de-Software/2022.2-UnB-HUB/blob/criacaoReadme/grupo5/docs/assets/logo.png?raw=true">
+
 
 Este repositório é destinado a aplicação [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2022/2.
 
