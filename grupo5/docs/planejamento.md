@@ -12,7 +12,7 @@
 
 #### 1.2.1 Product Backlog
 
-&emsp;&emsp; Product Backlog trata-se de uma ferramenta onde se é inserida todas as atividades do projeto. Possibilitando-se asssim, um melhor planejamento de execução das mesmas.
+&emsp;&emsp; Product Backlog trata-se de uma ferramenta onde se é inserida todas as atividades do projeto. Possibilitando-se assim, um melhor planejamento de execução das mesmas.
 
 #### 1.2.2 Sprint
 
@@ -27,7 +27,7 @@
 
 #### 1.2.5 Issues
 
-&emsp;&emsp;Issues tratam-se de cada atividade planejada para as sprints, com os responsáveis pela execução das mesmas, o que se espera de entregável para cada uma destas e porque estas atividades devem ser feitas.Em geral, são atividades voltadas para pesquisa, revisão e produção de variados artefatos.
+&emsp;&emsp;Issues tratam-se de cada atividade planejada para as sprints, com os responsáveis pela execução das mesmas, o que se espera de entregável para cada uma destas e porque estas atividades devem ser feitas. Em geral, são atividades voltadas para pesquisa, revisão e produção de variados artefatos.
 
 ### 1.3 eXtreme Programming
 
@@ -35,7 +35,7 @@
 
 #### 1.3.1 Pair Programming (Programação em Pares)
 
-&emsp;&emsp;Sempre que possível, designamos duas pessoas para fazer uma atividade ao mesmo tempo, diminuindo assim a possibilidade/urgência de revisão, fazendo com que duas cabeças pensem ao mesmo tempo, facilitando o progresso e a melhora do trabalho, compartilhando conhecimento e fortalecendo a pertença ao projeto. 
+&emsp;&emsp;Sempre que possível, designamos duas pessoas para fazer uma atividade ao mesmo tempo, diminuindo assim a possibilidade/urgência de revisão, fazendo com que duas cabeças pensem ao mesmo tempo, facilitando o progresso e a melhora do trabalho, compartilhando conhecimento e fortalecendo o pertencimento ao projeto. 
 
 #### 1.3.2 Simple Design
 
@@ -67,7 +67,8 @@
 1. Criar uma branch com nome significativo com a atividade da issue a ser realizada;
 2. Fazer commits granulares e significativos seguindo o padrão "verbo + atividade realizada no commit". Ex.: "inserção da página de planejamento", "criação da tabela de ferramentas";
 3. Ao finalizar a atividade feita na branch, abrir um pull request com a intenção de ter a atividade revisada por outro membro do grupo;
-4. Após a revisão, caso o PR esteja de acordo com o que deve ser feito, além de correções menores a serem feitas, a solicitação é aceita e as mudanças irão para a branch principal.
+4. Ao final do documento deixaremos no histórico de versão, a data com a versão executada, os autores e a descrição da atividade feita. Mais além, serão apresentados também os revisores de cada uma destas atividades;
+5. Após a revisão, caso o PR esteja de acordo com o que deve ser feito, além de correções menores a serem feitas, a solicitação é aceita e as mudanças irão para a branch principal.
 
 ## 3. Cronograma
 
@@ -75,9 +76,10 @@
 
 ## 5. Histórico de versão
 
-| Data | Versão | Descrição | Autor |
-| :--: | :----: | :-------: | :---: |
-| 08/11/2022 | 0.1 | Criação da página e inserção de metodologias/política de branches e commits | Iago Campelo e Lucas Felipe |
+| Data | Versão | Descrição | Autor |Revisores |
+| :--: | :----: | :-------: | :---: | : -----:    |
+| 08/11/2022 | 0.1 | Criação da página e inserção de metodologias/política de branches e commits | Iago Campelo e Lucas Felipe | Luciano Freitas e Luiza Esteves |
+      
 
 ## 6. Bibliografia
 
