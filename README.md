@@ -1,20 +1,19 @@
-# 2022.2-UnB-HUB
+# 2022.2-Carteira-Digital-Trânsito
 
-</p>
+Este repositório é destinado a aplicação [** Carteira Digital de Trânsito**](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2022/2.
 
 ## Sobre o Projeto
 
 Repositório destinado ao desenvolvimento do projeto da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA).
 Nele estará mantido todo o processo de desenvolvimento da disciplina, em que foi escolhido o aplicativo UnB Hub como material de estudo do grupo.
 
-## Sobre o HUB-UnB
+## Sobre a Carteira Digital de Trânsito
 
-O HUB UnB é o Hospital Universitário de Brasília está vinculado à universidade e atende de forma gratuita pelo Sistema Único de Saúde em especialidades
-que são de suma importância.
+A Carteira Digital de Trânsito (CDT) é um aplicativo que facilita a utilização de documentos eletrênicos para diversos finalidades, podendo tanto mexer com a documentação do motorista quanto do carro.
 
 ## Documentação
 
-A documentação se encontra <a href="">aqui</a>
+A documentação se encontra <a href="https://requisitos-de-software.github.io/2022.2-UnB-HUB/">aqui</a>
 
 
 ## Desenvolvedores.🤝
