@@ -74,11 +74,31 @@
 
 ## 4. Ferramentas
 
+### 4.1 Introdução
+    
+&emsp;&emsp; As ferramentas serão softwares que serão utilizados pela equipe com os objetivos de melhorar o desenvolvimento, comunicação e o gerenciamento do projeto. 
+
+### 4.2 Ferramentas utilizadas
+
+<div style="text-align: center">
+<p>Tabela 1: Ferramentas utilizadas no projeto</p>
+</div>
+
+|                                                                                         Logo                                                                                         | Ferramenta  | Finalidade                                                                                                                                                                                      |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img class="card-img img-fluid rounded" width="200" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/logo_github.png"> |   Github    | Será utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos.                                                                                                    |
+|     <img class="card-img img-fluid rounded" width="200" height="128" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/telegramLogo.png?raw=true">     |  Telegram   | Utilizado para comunicação entre o grupo e com o monitor                                                                                                                                               |
+| <img class="card-img img-fluid rounded" width="200" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/Logo_lucid.png">  | Lucidchart  | Será utilizado para a criação dos diversos diagramas e esquemas necessários para a modelagem dos Requisitos                                                                                     |
+|       <img class="card-img img-fluid rounded" width="200" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-TikTok/main/docs/img/obsLogo.jpg">       | OBS Studio  | Utilizado para realizar as gravações das apresentações dos pontos de controle                                                                                                                   |
+|       <img class="card-img img-fluid rounded" width="200" height="128" src="https://github.com/Requisitos-de-Software/2022.2-UnB-HUB/docs/assets/teams.png">       | Microsoft Teams| Utilizado para as apresentações e reuniões do time.                                                                    |
+|      <img class="card-img img-fluid rounded" width="200" height="128" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/figmaLogo.png?raw=true">       |    Figma    | Utilizado para elaborar os protótipos de média e alta fidelidade                                                                                                                                |
+
 ## 5. Histórico de versão
 
 | Data | Versão | Descrição | Autor |Revisores |
 | :--: | :----: | :-------: | :---: | : -----:    |
 | 08/11/2022 | 0.1 | Criação da página e inserção de metodologias/política de branches e commits | Iago Campelo e Lucas Felipe | Luciano Freitas e Luiza Esteves |
+| 15/11/2022 | 0.1 | Criação da página de ferramentas | Lucas Felipe | Marcus Martins|
       
 
 ## 6. Bibliografia
