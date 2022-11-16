@@ -1,12 +1,13 @@
-site_name: UnB HUB
+site_name: Carteira Digital de Trânsito
 
 theme:
   name: material
   language: pt
-  logo: ./assets/logo.png
+  logo: ./assets/carteira-digital-transito-logo.png
   font:
     text: Roboto
   features:
     - navigation.tabs
     - navigation.indexes
     - toc.integrate
+ 
