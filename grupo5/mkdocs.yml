@@ -1,9 +1,9 @@
-site_name: Carteira Digital de Trânsito
+site_name: Google Maps
 
 theme:
   name: material
   language: pt
-  logo: ./assets/carteira-digital-transito-logo.png
+  logo: ./assets/google-logo.png
   font:
     text: Roboto
   features:

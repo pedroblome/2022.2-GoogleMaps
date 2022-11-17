@@ -1,11 +1,11 @@
 
 ## 1. Introdução
 
-&emsp;&emsp;Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o Carteira Digital de Trânsito, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
+&emsp;&emsp;Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o Google Maps, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
 
 
-## 2. Carteira Digital Online
-&emsp;&emsp; Carteira Digital de Trânsito, é um aplicativo que facilita a utilização de sua carteira de motorista e o documento do veículo que esteja em seu nome, usando-os de maneira eletrônica. É uma forma segura de manter seus documentos sempre a mão, com a mesma validade deles impressos e poder compartilhar com outras pessoas.
+## 2. Google Maps
+&emsp;&emsp; Google Maps é um aplicativo que disponibiliza informações sobre a localização, entre outras, dos estabalecimentos além de informar o horário de funcionamento e traçar rotas entre locais calculando o tempo de duração média dependendo do veículo selecionado. É uma das ferramentas mais utilizadas do Google com mais de 10 bilhões de downloads de acordo com a Google Play criada em 2005 pela Google.
 
 ## 3. Equipe
 
@@ -28,7 +28,8 @@
 | :--: | :----: | :-------: | :---: | : -----:    |
 | 28/10/2022 | 0.1 | Criação da página  | Marcus Martins | --|
 | 16/11/2022 | 0.2 | Ajustes na tela inicial  | Lucas Felipe e Iago Campelo | --|
+| 17/11/2022 | 0.3 | Altera aplicativo  | Alexina Naara | --|
 
 ## 5. Bibliografia
 
-- [Carteira Digital de Trânsito](https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito)
+- [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
