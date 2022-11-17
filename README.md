@@ -1,6 +1,6 @@
 # 2022.2-Carteira-Digital-Trânsito
-<img width="400" src="https://github.com/Requisitos-de-Software/2022.2-UnB-HUB/blob/criacaoReadme/grupo5/docs/assets/logo.png?raw=true">
 
+<img width="200" src="https://github.com/Requisitos-de-Software/2022.2-UnB-HUB/blob/criacaoReadme/grupo5/docs/assets/logo.png?raw=true">
 
 Este repositório é destinado a aplicação [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2022/2.
 
@@ -11,11 +11,11 @@ Nele estará mantido todo o processo de desenvolvimento da disciplina, em que fo
 
 ## Sobre a Carteira Digital de Trânsito
 
-A Carteira Digital de Trânsito (CDT) é um aplicativo que facilita a utilização de documentos eletrênicos para diversos finalidades, podendo tanto mexer com a documentação do motorista, como a CNH, quanto do carro, como o CRLV.
+A Carteira Digital de Trânsito (CDT) é um aplicativo que facilita a utilização de documentos eletrônicos para diversos finalidades, podendo tanto mexer com a documentação do motorista, como a CNH, quanto do carro, como o CRLV.
 
 ## Documentação
 
-A documentação se encontra <a href="https://requisitos-de-software.github.io/2022.2-UnB-HUB/">aqui</a>
+A documentação se encontra <a href="https://requisitos-de-software.github.io/2022.2-CNH/">aqui</a>
 
 
 ## Desenvolvedores.🤝
