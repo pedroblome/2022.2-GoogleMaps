@@ -17,6 +17,7 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |   7   | Pós-Rastreabilidade                |       Gerência de Desenvolvimento de Software orientada à _baseline_ de Requisitos        | 17/01/2023 | 23/01/2023 |
 |   8   | Apresentação final                 |                                   Conclusão do projeto                                    | 24/01/2023 | 01/02/2023 |
 
+<figcaption align="center">Tabela 1: Cronograma geral das etapas do projeto.</figcaption>
 
 ## 3. Cronograma por etapa
 
@@ -36,7 +37,10 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        17/11/2022        |                Rich Picture do app                |               (?)                |               (?)               |       19/11/2022       |
 |        19/11/2022        |               Vídeo de apresentação               |              Todos               |         Luciano Freitas         |       21/11/2022       |
 
+<figcaption align="center">Tabela 2: Cronograma da etapa 1 do projeto.</figcaption>
+
 ### 3.2 Etapa 2
+
 <!-- Mínimo de 3 técnicas de elicitação e 2 de priorização -->
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
@@ -52,6 +56,8 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        27/11/2022        |                             Técnica de Priorização 2                              |              |                 |       29/11/2022       |
 |        29/11/2022        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       30/11/2022       |
 
+<figcaption align="center">Tabela 3: Cronograma da etapa 2 do projeto.</figcaption>
+
 ### 3.1 Etapa 3
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
@@ -62,6 +68,8 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        07/12/2022        |                      Casos de Uso (Documentação e Diagrama)                       |              |                 |       09/12/2022       |
 |        07/12/2022        |                             Especificação Suplementar                             |              |                 |       09/12/2022       |
 |        12/12/2022        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       12/12/2022       |
+
+<figcaption align="center">Tabela 4: Cronograma da etapa 3 do projeto.</figcaption>
 
 ### 3.1 Etapa 4
 
@@ -75,6 +83,8 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        30/12/2022        | Planejamento da etapa 05: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        03/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       04/01/2023       |
 
+<figcaption align="center">Tabela 5: Cronograma da etapa 4 do projeto.</figcaption>
+
 ### 3.1 Etapa 5
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
@@ -82,6 +92,8 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        05/01/2023        |                       Verificação dos documentos do projeto                       |              |                 |       07/01/2023       |
 |        06/01/2023        | Planejamento da etapa 06: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        08/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       09/01/2023       |
+
+<figcaption align="center">Tabela 6: Cronograma da etapa 5 do projeto.</figcaption>
 
 ### 3.1 Etapa 6
 
@@ -92,6 +104,7 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        13/01/2023        | Planejamento da etapa 07: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        15/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       16/01/2023       |
 
+<figcaption align="center">Tabela 7: Cronograma da etapa 6 do projeto.</figcaption>
 
 ### 3.1 Etapa 7
 
@@ -101,6 +114,8 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        19/01/2023        |                              Documento forward-form                               |              |                 |       21/01/2023       |
 |        19/01/2023        | Planejamento da etapa 08: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        22/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       23/01/2023       |
+
+<figcaption align="center">Tabela 8: Cronograma da etapa 7 do projeto.</figcaption>
 
 ### 3.1 Etapa 8
 
@@ -112,7 +127,7 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        26/01/2023        |           Complemento: tabela dos artefatos criados           |              |                 |       28/01/2023       |
 |        30/01/2023        |                     Vídeo de apresentação                     |    Todos     | Luciano Freitas |       01/02/2023       |
 
-
+<figcaption align="center">Tabela 9: Cronograma da etapa 8 do projeto.</figcaption>
 
 ## 4. Histórico de Versão
 
