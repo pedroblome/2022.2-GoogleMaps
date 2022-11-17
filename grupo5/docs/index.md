@@ -4,7 +4,7 @@
 &emsp;&emsp;Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o Carteira Digital de Trânsito, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
 
 
-## 2.Carteira Digital Online
+## 2. Carteira Digital Online
 &emsp;&emsp; Carteira Digital de Trânsito, é um aplicativo que facilita a utilização de sua carteira de motorista e o documento do veículo que esteja em seu nome, usando-os de maneira eletrônica. É uma forma segura de manter seus documentos sempre a mão, com a mesma validade deles impressos e poder compartilhar com outras pessoas.
 
 ## 3. Equipe
@@ -26,6 +26,7 @@
 ## 4. Histórico de versão
 | Data | Versão | Descrição | Autor |Revisores |
 | :--: | :----: | :-------: | :---: | : -----:    |
+| 28/10/2022 | 0.1 | Criação da página  | Marcus Martins | --|
 | 16/11/2022 | 0.2 | Ajustes na tela inicial  | Lucas Felipe e Iago Campelo | --|
 
 ## 5. Bibliografia
