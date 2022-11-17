@@ -1,17 +1,18 @@
-# 2022.2-Carteira-Digital-Trânsito
+# 2022.2-Google-Maps
+<img width="200" src="https://github.com/Requisitos-de-Software/2022.2-CNH/blob/%2310-CriacaoReadmeMaps/grupo5/docs/assets/logo.png?raw=true">
 
-<img width="200" src="https://github.com/Requisitos-de-Software/2022.2-UnB-HUB/blob/criacaoReadme/grupo5/docs/assets/logo.png?raw=true">
-
-Este repositório é destinado a aplicação [Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2022/2.
+Este repositório é destinado a aplicação [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=pt_BR&gl=US) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2022/2.
 
 ## Sobre o Projeto
 
 Repositório destinado ao desenvolvimento do projeto da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA).
-Nele estará mantido todo o processo de desenvolvimento da disciplina, em que foi escolhido o aplicativo Carteira Digital de Trânsito como material de estudo do grupo.
+Nele estará mantido todo o processo de desenvolvimento da disciplina, em que foi escolhido o aplicativo Google Maps como material de estudo do grupo.
 
-## Sobre a Carteira Digital de Trânsito
+## Sobre o Google Maps
 
-A Carteira Digital de Trânsito (CDT) é um aplicativo que facilita a utilização de documentos eletrônicos para diversos finalidades, podendo tanto mexer com a documentação do motorista, como a CNH, quanto do carro, como o CRLV.
+O Google Maps é um aplicativo desenvolvido com a finalidade de auxiliar a navegação via GPS,
+com mais de 220 países mapeados. Também contem uma série de informações sobre locais públicos, mapas 
+internos de grandes locais entre uma série de funcionalidades do sistema;
 
 ## Documentação
 
@@ -37,8 +38,8 @@ A documentação se encontra <a href="https://requisitos-de-software.github.io/2
         <td align="center"><a href="https://github.com/luciano-freitas-melo"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)" 
         style="border-radius: 50%; opacity: 1;" src="https://avatars.githubusercontent.com/luciano-freitas-melo" alt="" 
         width="210px;"><br><sub><b>Luciano Freitas</b></sub></a><br><a href="https://github.com/luciano-freitas-melo"></a></td>
-        <td align="center"><a href="https://github.com/marcusmartinsxx"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)" 
-        style="border-radius: 50%;" src="https://avatars.githubusercontent.com/marcusmartinsxx" alt="" 
+        <td align="center"><a href="https://github.com/marcusmartinss"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)" 
+        style="border-radius: 50%;" src="https://avatars.githubusercontent.com/marcusmartinss" alt="" 
         width="205px;"><br><sub><b>Marcus Martins</b></sub></a><br><a href="https://github.com/marcusmartinsxx"></a></td>      
     </tr> 
 </tbody></table></div></div>
