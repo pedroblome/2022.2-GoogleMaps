@@ -1,5 +1,5 @@
 # 2022.2-Google-Maps
-<img width="200" src="https://github.com/Requisitos-de-Software/2022.2-UnB-HUB/blob/criacaoReadme/grupo5/docs/assets/logo.png?raw=true">
+<img width="200" src="https://github.com/Requisitos-de-Software/2022.2-CNH/blob/%2310-CriacaoReadmeMaps/grupo5/docs/assets/logo.png?raw=true">
 
 Este repositório é destinado a aplicação [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=pt_BR&gl=US) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2022/2.
 
@@ -38,8 +38,8 @@ A documentação se encontra <a href="https://requisitos-de-software.github.io/2
         <td align="center"><a href="https://github.com/luciano-freitas-melo"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)" 
         style="border-radius: 50%; opacity: 1;" src="https://avatars.githubusercontent.com/luciano-freitas-melo" alt="" 
         width="210px;"><br><sub><b>Luciano Freitas</b></sub></a><br><a href="https://github.com/luciano-freitas-melo"></a></td>
-        <td align="center"><a href="https://github.com/marcusmartinsxx"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)" 
-        style="border-radius: 50%;" src="https://avatars.githubusercontent.com/marcusmartinsxx" alt="" 
+        <td align="center"><a href="https://github.com/marcusmartinss"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)" 
+        style="border-radius: 50%;" src="https://avatars.githubusercontent.com/marcusmartinss" alt="" 
         width="205px;"><br><sub><b>Marcus Martins</b></sub></a><br><a href="https://github.com/marcusmartinsxx"></a></td>      
     </tr> 
 </tbody></table></div></div>
