@@ -36,24 +36,22 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        17/11/2022        |              Artefato de ferramentas              |           Alexia Naara           |               (?)               |       19/11/2022       |
 |        17/11/2022        |                Rich Picture do app                |               (?)                |               (?)               |       19/11/2022       |
 |        19/11/2022        |               Vídeo de apresentação               |              Todos               |         Luciano Freitas         |       21/11/2022       |
-|                          |                                                   |                                  |                                 |                        |
 
 ### 3.2 Etapa 2
+<!-- Mínimo de 3 técnicas de elicitação e 2 de priorização -->
 
-| Data limite para entrega | Tarefa/Entrega | Responsáveis | Revisores | Data limite de revisão |
-| :----------------------: | :------------: | :----------: | :-------: | :--------------------: |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
-|                          |                |              |           |                        |
+| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
+|        18/11/2022        | Planejamento da etapa 02: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
+|        22/11/2022        |                        Especificação do Perfil do usuário                         |              |                 |       24/11/2022       |
+|        22/11/2022        |   Cronograma de realização com o cliente/persona para Elicitação e Priorização    |              |                 |       28/11/2022       |
+|        24/11/2022        |                              Técnica de Elicitação 1                              |              |                 |       28/11/2022       |
+|        24/11/2022        |                              Técnica de Elicitação 2                              |              |                 |       28/11/2022       |
+|        24/11/2022        |                              Técnica de Elicitação 3                              |              |                 |       28/11/2022       |
+|        25/11/2022        |                                  Personas do app                                  |              |                 |       28/11/2022       |
+|        27/11/2022        |                             Técnica de Priorização 1                              |              |                 |       29/11/2022       |
+|        27/11/2022        |                             Técnica de Priorização 2                              |              |                 |       29/11/2022       |
+|        29/11/2022        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       30/11/2022       |
 
 <!-- ## 6. Entregas da disciplina
 
@@ -66,7 +64,7 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |   5   | Análise de Requisitos: Verificação e Validação 1                                         |   09/01/2022   |
 |   6   | Análise de Requisitos: Verificação e Validação 2                                         |   16/01/2022   |
 |   7   | Pós-Rastreabilidade                                                                      |   23/01/2022   |
-|   8   | Apresentação final                                                                       |   01/02/2022   | --> |
+|   8   | Apresentação final                                                                       |   01/02/2022   | -->
 
 ## 4. Histórico de Versão
 
