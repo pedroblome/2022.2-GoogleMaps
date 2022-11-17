@@ -40,6 +40,6 @@ A documentação se encontra <a href="https://requisitos-de-software.github.io/2
         width="210px;"><br><sub><b>Luciano Freitas</b></sub></a><br><a href="https://github.com/luciano-freitas-melo"></a></td>
         <td align="center"><a href="https://github.com/marcusmartinss"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)" 
         style="border-radius: 50%;" src="https://avatars.githubusercontent.com/marcusmartinss" alt="" 
-        width="205px;"><br><sub><b>Marcus Martins</b></sub></a><br><a href="https://github.com/marcusmartinsxx"></a></td>      
+        width="205px;"><br><sub><b>Marcus Martins</b></sub></a><br><a href="https://github.com/marcusmartinss"></a></td>      
     </tr> 
 </tbody></table></div></div>
