@@ -1,34 +1,33 @@
-
 ## 1. Introdução
 
 &emsp;&emsp;Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o Google Maps, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
 
-
 ## 2. Google Maps
+
 &emsp;&emsp; Google Maps é um aplicativo que disponibiliza informações sobre a localização, entre outras, dos estabalecimentos além de informar o horário de funcionamento e traçar rotas entre locais calculando o tempo de duração média dependendo do veículo selecionado. É uma das ferramentas mais utilizadas do Google com mais de 10 bilhões de downloads de acordo com a Google Play criada em 2005 pela Google.
 
 ## 3. Equipe
 
 <center>
 
-|                                         | Membro            | Github             |
-| :-------------------------------------: | :---------------: | :----------------: |
-|<img src="https://avatars.githubusercontent.com/u/61877198?v=4" width=100rem style="border-radius: 50%">| Alexia Naara | [alexianaa](https://github.com/alexianaa) |
-|<img src=" https://github.com/iagoscm.png" width=100rem style="border-radius: 50%"> | Iago Campelo | [iagoscm](https://github.com/iagoscm)
-|<img src="https://github.com/lucasfs1007.png" width=100rem style="border-radius: 50%"> | Lucas Soares | [lucasfs1007](https://github.com/lucasfs1007)
-|<img src="https://avatars.githubusercontent.com/u/69515514?v=4" width=100rem style="border-radius: 50%"> | Luiza Esteves | [luiza-esteves](https://github.com/luiza-esteves)
-|<img src="https://avatars.githubusercontent.com/u/88516249?v=4" width=100rem style="border-radius: 50%"> | Luciano Melo | [luciano-freitas-melo](https://github.com/luciano-freitas-melo)
-|<img src="https://avatars.githubusercontent.com/u/89209017?v=4" width=100rem style="border-radius: 50%"> | Marcus Martins | [marcusmartinsxx](https://github.com/marcusmartinsxx)
-
+|                                                                                                          |     Membro     |                             Github                              |
+| :------------------------------------------------------------------------------------------------------: | :------------: | :-------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/61877198?v=4" width=100rem style="border-radius: 50%"> |  Alexia Naara  |            [alexianaa](https://github.com/alexianaa)            |
+|           <img src=" https://github.com/iagoscm.png" width=100rem style="border-radius: 50%">            |  Iago Campelo  |              [iagoscm](https://github.com/iagoscm)              |
+|          <img src="https://github.com/lucasfs1007.png" width=100rem style="border-radius: 50%">          |  Lucas Soares  |          [lucasfs1007](https://github.com/lucasfs1007)          |
+| <img src="https://avatars.githubusercontent.com/u/69515514?v=4" width=100rem style="border-radius: 50%"> | Luiza Esteves  |        [luiza-esteves](https://github.com/luiza-esteves)        |
+| <img src="https://avatars.githubusercontent.com/u/88516249?v=4" width=100rem style="border-radius: 50%"> |  Luciano Melo  | [luciano-freitas-melo](https://github.com/luciano-freitas-melo) |
+| <img src="https://avatars.githubusercontent.com/u/89209017?v=4" width=100rem style="border-radius: 50%"> | Marcus Martins |       [marcusmartinss](https://github.com/marcusmartinss)       |
 
 </center>
 
 ## 4. Histórico de versão
-| Data | Versão | Descrição | Autor |Revisores |
-| :--: | :----: | :-------: | :---: | : -----:    |
-| 28/10/2022 | 0.1 | Criação da página  | Marcus Martins | --|
-| 16/11/2022 | 0.2 | Ajustes na tela inicial  | Lucas Felipe e Iago Campelo | --|
-| 17/11/2022 | 0.3 | Altera aplicativo  | Alexina Naara | --|
+
+|    Data    | Versão |        Descrição        |            Autor            | Revisores |
+| :--------: | :----: | :---------------------: | :-------------------------: | :-------: |
+| 28/10/2022 |  0.1   |    Criação da página    |       Marcus Martins        |    --     |
+| 16/11/2022 |  0.2   | Ajustes na tela inicial | Lucas Felipe e Iago Campelo |    --     |
+| 17/11/2022 |  0.3   |    Altera aplicativo    |        Alexina Naara        |    --     |
 
 ## 5. Bibliografia
 
