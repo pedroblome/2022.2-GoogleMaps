@@ -16,7 +16,7 @@ internos de grandes locais entre uma série de funcionalidades do sistema;
 
 ## Documentação
 
-A documentação se encontra <a href="https://requisitos-de-software.github.io/2022.2-CNH/">aqui</a>
+A documentação se encontra <a href="https://requisitos-de-software.github.io/2022.2-GoogleMaps/">aqui</a>
 
 
 ## Desenvolvedores.🤝
