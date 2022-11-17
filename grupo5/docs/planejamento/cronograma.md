@@ -5,16 +5,15 @@
 Para este curso, foram avaliados os horários disponíveis para as reuniões semanais. Dessa forma foi definido que seriam às quintas-feiras, das 20h até 21h. Quantos aos cronogramas, foi levado em consideração o plano de ensino, os prazos das entregas, a capacidade produtiva e a dificuldade de cada etapa.
 
 ## 2. Cronograma Geral
-<!-- As descrições da etapa 3 a 8 ainda precisam ser melhor descritas -->
 
 | Etapa | Título                             |                                         Descrição                                         |   Início   |    Fim     |
 | :---: | ---------------------------------- | :---------------------------------------------------------------------------------------: | :--------: | :--------: |
 |   1   | Planejamento e Pré-Rastriabilidade | Organização da equipe e do projeto, definição do APP e Pré-Rastriabilidade (Rich Picture) | 27/10/2022 | 17/11/2022 |
 |   2   | Elicitação e Priorização           |        Utilização de técnicas para elicitação e priorização dos requisitos do app         | 18/11/2022 | 30/11/2022 |
-|   3   | Modelagem: Inicial e Tradicional   |                   Cenários, Léxico, Use Case, Especificação Suplementar                   | 01/12/2022 | 12/12/2022 |
-|   4   | Modelagem: Ágil                    |                       Histórias de Usuário, Backlogs, NFR Framework                       | 13/12/2022 | 29/12/2022 |
-|   5   | Análise de Requisitos I            |                                  Verificação e Validação                                  | 30/12/2022 | 09/01/2023 |
-|   6   | Análise de Requisitos II           |                                  Verificação e Validação                                  | 10/01/2023 | 16/01/2023 |
+|   3   | Modelagem                          |    Estruturação inicial da modelagem dos requisitos, utilizando técnicas tradicionais     | 01/12/2022 | 12/12/2022 |
+|   4   | Modelagem - Ágil                   |       Organização e remodelagem dos requisitos na perspectiva da metodologias ágeis       | 13/12/2022 | 29/12/2022 |
+|   5   | Análise de Requisitos I            |                                Verificação dos requisitos                                 | 30/12/2022 | 09/01/2023 |
+|   6   | Análise de Requisitos II           |                                 Validação dos requisitos                                  | 10/01/2023 | 16/01/2023 |
 |   7   | Pós-Rastreabilidade                |       Gerência de Desenvolvimento de Software orientada à _baseline_ de Requisitos        | 17/01/2023 | 23/01/2023 |
 |   8   | Apresentação final                 |                                   Conclusão do projeto                                    | 24/01/2023 | 01/02/2023 |
 
@@ -53,18 +52,67 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        27/11/2022        |                             Técnica de Priorização 2                              |              |                 |       29/11/2022       |
 |        29/11/2022        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       30/11/2022       |
 
-<!-- ## 6. Entregas da disciplina
+### 3.1 Etapa 3
 
-| Etapa | Descrição                                                                                | Dia de entrega |
-| :---: | ---------------------------------------------------------------------------------------- | :------------: |
-|   1   | Planejamento da equipe e do projeto, escolha do app e Pré-Rastreabilidade (Rich Picture) |   21/11/2022   |
-|   2   | Elicitação – Técnicas e Priorização                                                      |   30/11/2022   |
-|   3   | Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar          |   12/12/2022   |
-|   4   | Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR Framework)           |   04/01/2022   |
-|   5   | Análise de Requisitos: Verificação e Validação 1                                         |   09/01/2022   |
-|   6   | Análise de Requisitos: Verificação e Validação 2                                         |   16/01/2022   |
-|   7   | Pós-Rastreabilidade                                                                      |   23/01/2022   |
-|   8   | Apresentação final                                                                       |   01/02/2022   | -->
+| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
+|        01/12/2022        | Planejamento da etapa 03: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
+|        07/12/2022        |                              Cenários para o projeto                              |              |                 |       09/12/2022       |
+|        07/12/2022        |                             Especificação dos Léxicos                             |              |                 |       09/12/2022       |
+|        07/12/2022        |                      Casos de Uso (Documentação e Diagrama)                       |              |                 |       09/12/2022       |
+|        07/12/2022        |                             Especificação Suplementar                             |              |                 |       09/12/2022       |
+|        12/12/2022        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       12/12/2022       |
+
+### 3.1 Etapa 4
+
+| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
+|        15/12/2022        | Planejamento da etapa 04: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
+|        25/12/2022        |                         Criação das Histórias de Usuário                          |              |                 |       27/12/2022       |
+|        29/12/2022        |                  Critérios de Aceitação das Histórias de Usuário                  |              |                 |       02/01/2023       |
+|        29/12/2022        |                               Documento do Backlog                                |              |                 |       02/01/2023       |
+|        29/12/2022        |                                   NFR Framework                                   |              |                 |       02/01/2023       |
+|        30/12/2022        | Planejamento da etapa 05: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
+|        03/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       04/01/2023       |
+
+### 3.1 Etapa 5
+
+| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
+|        05/01/2023        |                       Verificação dos documentos do projeto                       |              |                 |       07/01/2023       |
+|        06/01/2023        | Planejamento da etapa 06: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
+|        08/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       09/01/2023       |
+
+### 3.1 Etapa 6
+
+| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
+|        12/01/2023        |                             Validação - Prototipação                              |              |                 |       14/01/2023       |
+|        12/01/2023        |                         Validação - Comprovação Informal                          |              |                 |       14/01/2023       |
+|        13/01/2023        | Planejamento da etapa 07: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
+|        15/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       16/01/2023       |
+
+
+### 3.1 Etapa 7
+
+| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
+|        19/01/2023        |                              Documento backward-form                              |              |                 |       21/01/2023       |
+|        19/01/2023        |                              Documento forward-form                               |              |                 |       21/01/2023       |
+|        19/01/2023        | Planejamento da etapa 08: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
+|        22/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       23/01/2023       |
+
+### 3.1 Etapa 8
+
+| Data limite para entrega |                        Tarefa/Entrega                         | Responsáveis |    Revisores    | Data limite de revisão |
+| :----------------------: | :-----------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
+|        26/01/2023        |                  Correções do projeto final                   |              |                 |       28/01/2023       |
+|        26/01/2023        | Complemento das ferramentas: onde foram utilizadas no projeto |              |                 |       28/01/2023       |
+|        26/01/2023        |     Complemento: técnicas e métodos utilizadas no projeto     |              |                 |       28/01/2023       |
+|        26/01/2023        |           Complemento: tabela dos artefatos criados           |              |                 |       28/01/2023       |
+|        30/01/2023        |                     Vídeo de apresentação                     |    Todos     | Luciano Freitas |       01/02/2023       |
+
+
 
 ## 4. Histórico de Versão
 
