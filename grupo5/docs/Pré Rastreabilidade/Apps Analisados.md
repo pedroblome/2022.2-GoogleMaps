@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Em uma atividade inicial passada pelo professor André Barros, cada integrante da equipe desenvolveu a modelagem de um Rich Picture para que pudessem ser feitas as análises de cada aplicativo escolhido peo cada membro, e decidir qual seria desenvolvido pelo grupo. Essa área irá mostrar o que foi realizado por cada integrante.
+Em uma atividade inicial passada pelo professor André Barros, cada integrante da equipe desenvolveu a modelagem de um Rich Picture para que pudessem ser feitas as análises de cada aplicativo escolhido para cada membro, e decidir qual seria desenvolvido pelo grupo. Essa área irá mostrar o que foi realizado por cada integrante.
 
 ## Rich Pictures desenvolvidos pela equipe
 
@@ -17,7 +17,7 @@ O Sinesp Cidadão é um aplicativo desenvolvido para o Sistema Nacional de Infor
 </figure>
 
 ### 2. Carteira Digital de Trânsito
-O "Carteira Digital de Trânsito" é um aplicativo que permite o usuário a acessar a sua habilitação digitalmente, além de verificar infrações, veículos em seu nome e tirar dúvidas:
+O "Carteira Digital de Trânsito" é um aplicativo que permite o usuário acessar a sua habilitação digitalmente, além de verificar infrações, veículos em seu nome e tirar dúvidas:
 
 
 ![Lucas Felipe](../assets/richPictures/LucasRich.jpg)
@@ -74,7 +74,7 @@ O "UnB HUB" é um aplicativo que permite encontrar uma série de informações s
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--: | :----: | :-------: | :---: | :---: |
 | 08/11/2022 | 0.1 | Criação da página | Luíza | Marcus |
-| 10/11/2022 | 0.2 | Correções gramaticais e de concordância | Luíza | Marcus e Iago |
+| 10/11/2022 | 0.2 | Correções gramaticais e de concordância | Luíza e Lucas Felipe| Marcus e Iago |
 
 ## Referências Bibliográficas
 
