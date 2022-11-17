@@ -2,12 +2,12 @@
 
 ## Introdução
 
-Em uma atividade inicial passada pelo professor André Barros, cada integrante da equipe desenvolveu a modelagem de um Rich Picture para que pudessem ser feitas a análise e chegar a uma escolha para desenvolver pelo grupo. Essa área irá mostrar o que foi realizado por cada integrante.
+Em uma atividade inicial passada pelo professor André Barros, cada integrante da equipe desenvolveu a modelagem de um Rich Picture para que pudessem ser feitas as análises de cada aplicativo escolhido para cada membro, e decidir qual seria desenvolvido pelo grupo. Essa área irá mostrar o que foi realizado por cada integrante.
 
 ## Rich Pictures desenvolvidos pela equipe
 
 ### 1. Sinesp Cidadão
-O Sinesp Cidadão é um aplicativo desenvolvido para o Sistema Nacional de Informações de Segurança Pública (Sinesp), permitindo aos brasileiros o acesso a serviços da Secretaria Nacional de Segurança Pública. A Figura 1 mostra o desenvolvimento do Rich Picture do aplicativo:
+O Sinesp Cidadão é um aplicativo desenvolvido para o Sistema Nacional de Informações de Segurança Pública (Sinesp), permitindo aos brasileiros o acesso a serviços da Secretaria Nacional de Segurança Pública.
 
 ![Iago](../assets/richPictures/IagoRich.jpg)
 
@@ -16,11 +16,12 @@ O Sinesp Cidadão é um aplicativo desenvolvido para o Sistema Nacional de Infor
   <figcaption>Fonte: Iago de Sousa</figcaption>
 </figure>
 
-### 2. CNH Online
-A CNH Online é um aplicativo que permite o usuário a acessar a sua habilitação digitalmente, além de verificar infrações, veículos em seu nome e tirar dúvidas. A Figura 2 mostra o desenvolvimento do Rich Picture do aplicativo:
+### 2. Carteira Digital de Trânsito
+O "Carteira Digital de Trânsito" é um aplicativo que permite o usuário acessar a sua habilitação digitalmente, além de verificar infrações, veículos em seu nome e tirar dúvidas:
 
 
 ![Lucas Felipe](../assets/richPictures/LucasRich.jpg)
+
 <figure markdown>
   <figcaption>Figura 2 - Rich Picture CNH Online</figcaption>
   <figcaption>Fonte: Lucas Felipe</figcaption>
@@ -28,7 +29,8 @@ A CNH Online é um aplicativo que permite o usuário a acessar a sua habilitaç�
 
 ### 3. FGTS
 
-O FGTS permite aos trabalhadores consultar saldo total das contas, depósitos realizados pelo empregador, impressão de extratos entre várias outras funções. A Figura 3 mostra o desenvolvimento do Rich Picture do aplicativo:
+O aplicativo do FGTS permite aos trabalhadores consultar o saldo total das contas, depósitos realizados pelo empregador, impressão de extratos entre várias outras funções.
+
 ![Luíza](../assets/richPictures/LuizaRich.jpg)
 
 <figure markdown >
@@ -37,7 +39,7 @@ O FGTS permite aos trabalhadores consultar saldo total das contas, depósitos re
 </figure>
 
 ### 4. Receita Federal
-O aplicativo da Receita Federal oferece um status geral do CPF em vários sistemas da Receita Federal, quando for acessado com conta gov.br. A Figura 4 mostra o desenvolvimento do Rich Picture do aplicativo:
+O aplicativo da Receita Federal, o qual é vinculado com a conta do site 'gov.br', oferece um status geral do CPF em vários sistemas da Receita Federal.
 
 ![Alexia](../assets/richPictures/AlexiaRich.jpg)
 
@@ -47,7 +49,7 @@ O aplicativo da Receita Federal oferece um status geral do CPF em vários sistem
 </figure>
 
 ### 5. Carteira de Trabalho Digital
-A Carteira de Trabalho Digital tem como objetivo trazer facilidades ao trabalhador caso queira acessar dados sobre sua vida trabalhista, contratos e dados pessoais.A Figura 5 mostra o desenvolvimento do Rich Picture do aplicativo:
+A "Carteira de Trabalho Digital" tem como objetivo trazer facilidades ao trabalhador caso queira acessar dados sobre sua vida trabalhista, contratos e dados pessoais.
 
 ![Marcus](../assets/richPictures/MarcusRich.jpg)
 
@@ -58,8 +60,10 @@ A Carteira de Trabalho Digital tem como objetivo trazer facilidades ao trabalhad
 
 
 ### 6. UnB Hub
-O UnB HUB é um aplicativo que permite encontrar uma série de informações sobre atividades que ocorrem dentro da UnB, facilitando o acesso à informação aos estudantes. A Figura 6 mostra o desenvolvimento do Rich Picture do aplicativo:
+O "UnB HUB" é um aplicativo que permite encontrar uma série de informações sobre atividades que ocorrem dentro da UnB, facilitando o acesso dessas informações pelos estudantes.
+
 ![Luciano](../assets/richPictures/LucianoRich.jpg)
+
 <figure markdown >
   <figcaption>Figura 6 - Rich Picture UnB Hub</figcaption>
   <figcaption>Fonte: Luciano de Freitas</figcaption>
@@ -67,15 +71,16 @@ O UnB HUB é um aplicativo que permite encontrar uma série de informações sob
 
 ## Histórico de Versões
 
-| Data | Versão | Descrição | Autor | Revisor |
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--: | :----: | :-------: | :---: | :---: |
-| 08/11/2022 | 0.1 | Criação da página | Luíza |
+| 08/11/2022 | 0.1 | Criação da página | Luíza | Marcus |
+| 10/11/2022 | 0.2 | Correções gramaticais e de concordância | Luíza e Lucas Felipe| Marcus e Iago |
 
 ## Referências Bibliográficas
 
-[Cinesp](https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=US&pli=1)
+[Sinesp](https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=US&pli=1)
 
-[CNH Online](https://www.detran.mg.gov.br/habilitacao/emissao-de-documentos-de-habilitacao/cnh-digital-1)
+[Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt)
 
 [FGTS](https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&gl=US)
 
