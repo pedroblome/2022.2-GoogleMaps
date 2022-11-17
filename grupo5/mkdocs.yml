@@ -3,7 +3,7 @@ site_name: Carteira Digital de Trânsito
 theme:
   name: material
   language: pt
-  logo: ./assets/carteira-digital-transito-logo.png
+  logo: ./assets/logo.png
   font:
     text: Roboto
   features:
