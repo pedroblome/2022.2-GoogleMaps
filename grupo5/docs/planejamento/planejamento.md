@@ -3,7 +3,7 @@
 ## 1. Metodologias
 
 ### 1.1 Introdução
-    
+
 &emsp;&emsp;O objetivo deste documento é trazer um breve resumo dos diversos aspectos e cerimônias de metodologias ágeis que foram selecionadas com o intuito de auxiliar no desenvolvimento do projeto.
 
 ### 1.2 Scrum
@@ -21,9 +21,10 @@
 #### 1.2.3 Sprint Planning
 
 &emsp;&emsp;Sprint Planning trata-se de um planejamento de atividades definidas para cada semana e os responsáveis pela execução das mesmas. A planning será feita toda quinta-feira após a review.
+
 #### 1.2.4 Sprint Review
 
-&emsp;&emsp;Sprint Review trata-se de uma cerimônia onde toda a equipe de desenvolvimento tem a oportunidade de mostrar como foi a execução das atividades definidas para a semana e sugerir eventuais melhorias para as próximas  sprints. A review será feita toda quinta-feira 20:00.
+&emsp;&emsp;Sprint Review trata-se de uma cerimônia onde toda a equipe de desenvolvimento tem a oportunidade de mostrar como foi a execução das atividades definidas para a semana e sugerir eventuais melhorias para as próximas sprints. A review será feita toda quinta-feira 20:00.
 
 #### 1.2.5 Issues
 
@@ -31,11 +32,11 @@
 
 ### 1.3 eXtreme Programming
 
-&emsp;&emsp;eXtreme Programming, ou mais conhecido como XP, é uma metodologia ágil voltada para o desenvolvimento de um produto de software de alta qualidade e proporcionando ainda assim o bem-estar da equipe de desenvolvimento. XP prepara sua equipe de produção à uma eventual mudança no escopo do produto. Uma característica desta metodologia é que ela não é usada apenas pelo time de desenvolvedores, mas também por clientes e gerentes. 
+&emsp;&emsp;eXtreme Programming, ou mais conhecido como XP, é uma metodologia ágil voltada para o desenvolvimento de um produto de software de alta qualidade e proporcionando ainda assim o bem-estar da equipe de desenvolvimento. XP prepara sua equipe de produção à uma eventual mudança no escopo do produto. Uma característica desta metodologia é que ela não é usada apenas pelo time de desenvolvedores, mas também por clientes e gerentes.
 
 #### 1.3.1 Pair Programming (Programação em Pares)
 
-&emsp;&emsp;Sempre que possível, designamos duas pessoas para fazer uma atividade ao mesmo tempo, diminuindo assim a possibilidade/urgência de revisão, fazendo com que duas cabeças pensem ao mesmo tempo, facilitando o progresso e a melhora do trabalho, compartilhando conhecimento e fortalecendo o pertencimento ao projeto. 
+&emsp;&emsp;Sempre que possível, designamos duas pessoas para fazer uma atividade ao mesmo tempo, diminuindo assim a possibilidade/urgência de revisão, fazendo com que duas cabeças pensem ao mesmo tempo, facilitando o progresso e a melhora do trabalho, compartilhando conhecimento e fortalecendo o pertencimento ao projeto.
 
 #### 1.3.2 Simple Design
 
@@ -57,13 +58,14 @@
 
 &emsp;&emsp;Pelo KanBan, trazemos o aspecto do limite de trabalho, ou seja, sem integrantes do grupo fazendo muitas tarefas ao mesmo tempo em uma mesma sprint, dividindo o trabalho uniformemente pelos membros e ao longo do semestre, possibilitando uma carga saudável e prática a todos.
 
-#### 1.4.2 Controle de Atividades (to-do, doing, done) 
+#### 1.4.2 Controle de Atividades (to-do, doing, done)
 
 &emsp;&emsp;O KanBan permite que as colunas criadas sejam organizadas conforme a necessidade de cada equipe. Nós, como equipe, vimos apenas a necessidade de dividir as issues em três labels básicas: to-do, in progress ou done. Essa prática facilita o rastreamento do andamento das issues, o que ainda precisa ser feito no momento como prioridade, e o que não tem tanta urgência assim.
 
 ## 2. Política de Branches e Commits
+
 &emsp;&emsp;Seguiremos a seguinte lógica para ser seguida na inserção de atividades feitas pelas issues:
-    
+
 1. Criar uma branch com nome significativo com a atividade da issue a ser realizada;
 2. Fazer commits granulares e significativos seguindo o padrão "verbo + atividade realizada no commit". Ex.: "inserção da página de planejamento", "criação da tabela de ferramentas";
 3. Ao finalizar a atividade feita na branch, abrir um pull request com a intenção de ter a atividade revisada por outro membro do grupo;

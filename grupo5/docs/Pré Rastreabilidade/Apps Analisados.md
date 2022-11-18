@@ -58,7 +58,6 @@ A "Carteira de Trabalho Digital" tem como objetivo trazer facilidades ao trabalh
   <figcaption>Fonte: Marcus Vinícius</figcaption>
 </figure>
 
-
 ### 6. UnB Hub
 O "UnB HUB" é um aplicativo que permite encontrar uma série de informações sobre atividades que ocorrem dentro da UnB, facilitando o acesso dessas informações pelos estudantes.
 
