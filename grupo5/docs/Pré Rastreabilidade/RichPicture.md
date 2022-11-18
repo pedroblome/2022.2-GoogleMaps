@@ -14,12 +14,20 @@ Para realizar a escolha de um aplicativo a ser utilizado no decorrer da discipli
 
 Levando em consideração todos esses pontos, a equipe entrou em acordo inicialmente de que a melhor opção poderia ser a Carteira Digital de Trânsito, em que há um público de maior facilidade para auxiliar no desenvolvimento do projeto, não tem todos os requisitos bem definidos e conseguimos identificar a sua origem. Porém, como já foi realizado um trabalho com este aplicativo, a equipe decidiu que seria melhor escolher outro, para que pudesse ser feito um trabalho mais completo e que pudesse ser utilizado como base para futuros trabalhos. O aplicativo escolhido foi o Google Maps, principalmente por ter funções bem definidas e permitir a engenharia reversa para a coleta de requisitos.
 
+![GoogleMaps](../assets/richPictures/GoogleMapsRich.jpg)
+
+<figure markdown >
+  <figcaption>Figura 1 - Rich Picture Google Maps</figcaption>
+  <figcaption>Fonte: Alexia e Felipe</figcaption>
+</figure>
+
 ## 3. Histórico de Versões
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--: | :----: | :-------: | :---: | :---: |
 | 08/11/2022 | 0.1 | Criação da página de Rich Picture | Luíza | Marcus |
 | 10/11/2022 | 0.2 | Alteração do aplicativo escolhido | Luíza | Marcus e Iago |
+| 18/11/2022 | 0.3 | Inclui imagem do rich picture | Alexia | Iago |
 
 ## 4. Bibliografia
 
