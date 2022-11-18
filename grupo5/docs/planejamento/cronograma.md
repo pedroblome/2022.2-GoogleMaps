@@ -8,7 +8,7 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 
 | Etapa | Título                             |                                         Descrição                                         |   Início   |    Fim     |
 | :---: | ---------------------------------- | :---------------------------------------------------------------------------------------: | :--------: | :--------: |
-|   1   | Planejamento e Pré-Rastriabilidade | Organização da equipe e do projeto, definição do APP e Pré-Rastriabilidade (Rich Picture) | 27/10/2022 | 17/11/2022 |
+|   1   | Planejamento e Pré-Rastreabilidade | Organização da equipe e do projeto, definição do APP e Pré-Rastreabilidade (Rich Picture) | 27/10/2022 | 17/11/2022 |
 |   2   | Elicitação e Priorização           |        Utilização de técnicas para elicitação e priorização dos requisitos do app         | 18/11/2022 | 30/11/2022 |
 |   3   | Modelagem                          |    Estruturação inicial da modelagem dos requisitos, utilizando técnicas tradicionais     | 01/12/2022 | 12/12/2022 |
 |   4   | Modelagem - Ágil                   |       Organização e remodelagem dos requisitos na perspectiva da metodologias ágeis       | 13/12/2022 | 29/12/2022 |
@@ -131,7 +131,7 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 
 ## 4. Histórico de Versão
 
-| Versão |    Data    |           Modificações            |              Autor               | Revisor |
-| :----: | :--------: | :-------------------------------: | :------------------------------: | :-----: |
-|  1.0   | 09/11/2022 |     Criação da aba Cronograma     | Marcus Martins e Luciano Freitas |         |
-|  1.1   | 17/11/2022 | Alteração no padrão do Cronograma |         Luciano Freitas          |         |
+| Versão |    Data    |           Modificações            |              Autor               |   Revisor    |
+| :----: | :--------: | :-------------------------------: | :------------------------------: | :----------: |
+|  1.0   | 09/11/2022 |     Criação da aba Cronograma     | Marcus Martins e Luciano Freitas | Iago Campelo |
+|  1.1   | 17/11/2022 | Alteração no padrão do Cronograma | Marcus Martins e Luciano Freitas | Iago Campelo |
