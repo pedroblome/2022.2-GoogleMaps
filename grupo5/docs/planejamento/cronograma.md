@@ -23,19 +23,20 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 
 ### 3.1 Etapa 1
 
-| Data limite para entrega |                  Tarefa/Entrega                   |           Responsáveis           |            Revisores            | Data limite de revisão |
-| :----------------------: | :-----------------------------------------------: | :------------------------------: | :-----------------------------: | :--------------------: |
-|        27/10/2022        |                Formação da equipe                 |              Todos               |              Todos              |          ---           |
-|        03/11/2022        |  Seleção das ferramentas e organização da equipe  |              Todos               |              Todos              |          ---           |
-|        03/11/2022        | Criação e padronização do Github Pages do projeto |  Marcus Martins e Iago Campelo   |              Todos              |          ---           |
-|        03/11/2022        |        Criação do Github Pages do projeto         |  Marcus Martins e Iago Campelo   |              Todos              |          ---           |
-|        17/11/2022        |             Escolha do app do projeto             |              Todos               |              Todos              |          ---           |
-|        17/11/2022        |                 Readme do projeto                 |          Luiza Esteves           |          Alexia Naara           |       19/11/2022       |
-|        17/11/2022        |       Cronograma de planejamento do projeto       | Luciano Freitas e Marcus Martins |               (?)               |       19/11/2022       |
-|        17/11/2022        |             Artefato de metodologias              |   Iago Campelo e Lucas Soares    | Luciano Freitas e Luiza Esteves |       19/11/2022       |
-|        17/11/2022        |              Artefato de ferramentas              |           Alexia Naara           |               (?)               |       19/11/2022       |
-|        17/11/2022        |                Rich Picture do app                |               (?)                |               (?)               |       19/11/2022       |
-|        19/11/2022        |               Vídeo de apresentação               |              Todos               |         Luciano Freitas         |       21/11/2022       |
+| Data limite para entrega |                  Tarefa/Entrega                   |                Responsáveis                |            Revisores            | Data limite de revisão |
+| :----------------------: | :-----------------------------------------------: | :----------------------------------------: | :-----------------------------: | :--------------------: |
+|        27/10/2022        |                Formação da equipe                 |                   Todos                    |              Todos              |          ---           |
+|        03/11/2022        |  Seleção das ferramentas e organização da equipe  |                   Todos                    |              Todos              |          ---           |
+|        03/11/2022        | Criação e padronização do Github Pages do projeto |       Marcus Martins e Iago Campelo        |              Todos              |          ---           |
+|        03/11/2022        |        Criação do Github Pages do projeto         |       Marcus Martins e Iago Campelo        |              Todos              |          ---           |
+|        17/11/2022        |             Escolha do app do projeto             |                   Todos                    |              Todos              |          ---           |
+|        17/11/2022        |                 Readme do projeto                 |               Luiza Esteves                |          Alexia Naara           |       19/11/2022       |
+|        17/11/2022        |            Página inicial do gitpages             | Alexia Naara, Iago Campelo e Lucas Soares  |         Marcus Martins          |       19/11/2022       |
+|        17/11/2022        |       Cronograma de planejamento do projeto       |      Luciano Freitas e Marcus Martins      |          Iago Campelo           |       19/11/2022       |
+|        17/11/2022        |             Artefato de metodologias              |        Iago Campelo e Lucas Soares         | Luciano Freitas e Luiza Esteves |       19/11/2022       |
+|        17/11/2022        |              Artefato de ferramentas              |                Lucas Soares                |         Marcus Martins          |       19/11/2022       |
+|        17/11/2022        |                Rich Picture do app                | Alexia Naara, Lucas Soares e Luiza Esteves |  Iago Campelo e Marcus Martins  |       19/11/2022       |
+|        19/11/2022        |               Vídeo de apresentação               |                   Todos                    |         Luciano Freitas         |       21/11/2022       |
 
 <figcaption align="center">Tabela 2: Cronograma da etapa 1 do projeto.</figcaption>
 
