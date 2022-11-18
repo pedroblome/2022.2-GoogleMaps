@@ -3,19 +3,10 @@ site_name: Google Maps
 theme:
   name: material
   language: pt
-  logo: ./assets/logo.png
+  logo: ./assets/logos/google-logo.png
   font:
     text: Roboto
-
   features:
     - navigation.tabs
     - navigation.indexes
-
-nav:
-  - Equipe: index.md
-  - Planejamento:
-      - Planejamento: planejamento/planejamento.md
-      - Cronograma: planejamento/cronograma.md
-  - Elicitação: elicitacao.md
-  - Encontros: encontros.md
-  - Entregas: entregas.md
+    - toc.integrate
