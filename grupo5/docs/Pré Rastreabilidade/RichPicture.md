@@ -21,6 +21,15 @@ Levando em consideração todos esses pontos, a equipe entrou em acordo inicialm
   <figcaption>Fonte: Alexia e  Lucas Felipe</figcaption>
 </figure>
 
+Na Figura 2 é possível verificar a legenda dos rich picture desenvolvido:
+
+![Legenda](../assets/richPictures/legenda.png)
+
+<figure markdown >
+  <figcaption>Figura 2 - Legenda do Rich Picture</figcaption>
+  <figcaption>Fonte: Luíza Esteves</figcaption>
+</figure>
+
 ## 3. Histórico de Versões
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
