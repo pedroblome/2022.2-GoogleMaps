@@ -63,6 +63,6 @@
 
 ## 3. Histórico de Versões
 
-| Data | Versão | Descrição | Autor |
-| :--: | :----: | :-------: | :---: |
-| 03/11/2022 | 0.1 | Criação da página | Iago |
+| Data | Versão | Descrição | Autor | Revisores |
+| :--: | :----: | :-------: | :---: | :-------: |
+| 03/11/2022 | 0.1 | Criação da página | Iago | Alexia Naara |
