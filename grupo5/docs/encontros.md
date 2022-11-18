@@ -126,7 +126,8 @@ Horário de término da reunião: 21:02
 
 ## 3. Histórico de Versões
 
-|    Data    | Versão |                          Descrição                          |    Autor     |
-| :--------: | :----: | :---------------------------------------------------------: | :----------: |
-| 03/11/2022 |  0.1   |                      Criação da página                      | Iago Campelo |
-| 16/11/2022 |  0.2   | Atualização com segunda reunião e mudanças no padrão de ata | Iago Campelo |
+|    Data    | Versão |                          Descrição                          |    Autor     |  Revisores   |
+| :--------: | :----: | :---------------------------------------------------------: | :----------: | :----------: |
+| 03/11/2022 |  0.1   |                      Criação da página                      |     Iago     | Alexia Naara |
+| 16/11/2022 |  0.2   | Atualização com segunda reunião e mudanças no padrão de ata | Iago Campelo | Alexia Naara |
+

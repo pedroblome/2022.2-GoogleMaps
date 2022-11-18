@@ -3,10 +3,11 @@ site_name: Google Maps
 theme:
   name: material
   language: pt
-  logo: ./assets/logos/google-logo.png
+  logo: ./assets/google-logo.png
   font:
     text: Roboto
   features:
     - navigation.tabs
     - navigation.indexes
     - toc.integrate
+ 

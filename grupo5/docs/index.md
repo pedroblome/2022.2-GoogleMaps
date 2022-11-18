@@ -23,11 +23,11 @@
 
 ## 4. Histórico de versão
 
-|    Data    | Versão |        Descrição        |            Autor            |   Revisores    |
-| :--------: | :----: | :---------------------: | :-------------------------: | :------------: |
-| 28/10/2022 |  0.1   |    Criação da página    |       Marcus Martins        |     Luiza      |
-| 16/11/2022 |  0.2   | Ajustes na tela inicial | Lucas Felipe e Iago Campelo |  Alexia Naara  |
-| 17/11/2022 |  0.3   | Alterção do aplicativo  |        Alexia Naara         | Marcus Martins |
+|    Data    | Versão |        Descrição        |            Autor            | Revisores  |
+| :--------: | :----: | :---------------------: | :-------------------------: | :--------: |
+| 28/10/2022 |  0.1   |    Criação da página    |       Marcus Martins        |    Luiza   |
+| 16/11/2022 |  0.2   | Ajustes na tela inicial | Lucas Felipe e Iago Campelo |Alexia Naara|
+| 17/11/2022 |  0.3   | Alterção do aplicativo  |        Alexia Naara         |Marcus Martins|
 
 ## 5. Bibliografia
 
