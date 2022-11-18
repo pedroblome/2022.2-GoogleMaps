@@ -18,7 +18,7 @@ Levando em consideração todos esses pontos, a equipe entrou em acordo inicialm
 
 <figure markdown >
   <figcaption>Figura 1 - Rich Picture Google Maps</figcaption>
-  <figcaption>Fonte: Alexia e Felipe</figcaption>
+  <figcaption>Fonte: Alexia e  Lucas Felipe</figcaption>
 </figure>
 
 ## 3. Histórico de Versões
