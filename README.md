@@ -1,5 +1,5 @@
 # 2022.2-Google-Maps
-<img width="200" src="https://github.com/Requisitos-de-Software/2022.2-GoogleMaps/blob/main/grupo5/docs/assets/logos/google-logo.png?raw=true">
+<img width="200" src="https://github.com/Requisitos-de-Software/2022.2-GoogleMaps/blob/main/docs/assets/logos/google-logo.png?raw=true">
 
 Este repositório é destinado a aplicação [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=pt_BR&gl=US) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2022/2.
 
