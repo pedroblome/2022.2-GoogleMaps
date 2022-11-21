@@ -1,31 +1,19 @@
 name: Deploy to GitHub Pages
-
 on:
-  push:
-    branches:
-      - master
-
+    push:
+      branches:
+        - main
+    pull_request:
+      branches:
+        - main
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-
-    - name: Build
-      uses: actions/setup-node@v1
-      with:
-        node-version: '13.x'
-    - run: |
-        npm install
-        npm test
-        npm run build
-        touch dist/.nojekyll
-        echo "snoo.odyssey.codes" > dist/CNAME
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: dist
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material
+      - run: pip install mkdocstrings
+      - run: mkdocs gh-deploy --force
