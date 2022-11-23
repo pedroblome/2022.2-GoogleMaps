@@ -18,6 +18,27 @@
 
 &emsp;&emsp; Se espera que os usuários tenham entre 12 e 60 anos de idade. Correspondendo à faixa de idade na qual, geralmente, pessoas costumam se deslocar sozinhas em seus respectivos trajetos.
 
+### 1.3 Grupos de usuários
+
+&emsp;&emsp; Dentro das principais características dos usuários, podemos os separar em alguns grupos mais gerais de usuários de acordo com alguns atributos similares entre eles. Como por exemplo: 
+
+- ### Motoristas de aplicativo
+
+&emsp;&emsp; Esse tipo de usuário, pode utilizar o sistema do Google Maps para melhor traçar suas rotas. Assim possibilitando, uma melhor previsão do seu consumo de combustível e do seus tempos de trajeto.
+
+- ### Usuários de transporte Público
+
+&emsp;&emsp; Esse tipo de usuário, pode utilizar o sistema do Google Maps para poder visualizar trajetos de linhas de ônibus, a distância e o tempo necessário para cumprir seu trajeto.
+
+- ### Avaliadores e potenciais clientes
+
+&emsp;&emsp; Esse tipo de usuário, pode utilizar o sistema do Google Maps para verificar como outros usuários avaliam determinado local e também compartilhar sua experiência com outros usuários. 
+
+- ### Público Geral
+
+&emsp;&emsp; Esse tipo de usuário, pode utilizar o sistema do Google Maps para executar os mais variados serviços disponibilizados na plataforma.  
+
+
 - ### Necessidades
 
 &emsp;&emsp; Os usuários do sistema têm como suas principais necessidades: o auxilio na construção de trajetos, a obtenção de informações sobre locais, visualização das avaliações de outros usuários acerca sobre certas localidades.
