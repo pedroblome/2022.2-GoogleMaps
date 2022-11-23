@@ -91,8 +91,9 @@
 |     <img  width="128" height="128" src="/assets/logos/github-logo.png">      |     Github      | Será utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos.                |
 |     <img width="128" height="128" src="/assets/logos/telegram-logo.png">     |    Telegram     | Utilizado para comunicação entre o grupo e com o monitor                                                    |
 |      <img width="200" height="128" src="/assets/logos/lucid-logo.png">       |   Lucidchart    | Será utilizado para a criação dos diversos diagramas e esquemas necessários para a modelagem dos Requisitos |
-|       <img  width="135" height="135" src="/assets/logos/obs-logo.jpg">       |   OBS Studio    | Utilizado para realizar as gravações das apresentações dos pontos de controle                               |
+|       <img  width="135" height="135" src="/assets/logos/youtube.png">       |  Youtube  | Utilizado para armazenar as gravações das apresentações dos pontos de controle                               |
 | <img  width="128" height="128" src="/assets/logos/microsoft-teams-logo.png"> | Microsoft Teams | Utilizado para as apresentações e reuniões do time.                                                         |
+| <img  width="128" height="128" src="/assets/logos/VSCode.png"> | Visual Code Studio | Utilizado para elaboração dos documentos.                                                         |
 |      <img width="128" height="128" src="/assets/logos/figma-logo.png">       |      Figma      | Utilizado para elaborar os protótipos de média e alta fidelidade                                            |
 
 ## 5. Histórico de versão
@@ -101,6 +102,7 @@
 | :---: | :----: | :-------: | :---: |: -----:    |
 | 08/11/2022 | 0.1 | Criação da página e inserção de metodologias/política de branches e commits | Iago Campelo e Lucas Felipe | Luciano Freitas e Luiza Esteves |
 | 15/11/2022 | 0.2 | Criação da página de ferramentas | Lucas Felipe | Marcus Martins|
+| 23/11/2022 | 0.3 | Atualização da página de ferramentas | Lucas Felipe | Marcus Martins|
       
 
 ## 6. Bibliografia
