@@ -77,7 +77,7 @@
 <p>Fonte: Lucas Felipe</p>
 </div>
 
-### Nome mulher 1
+### Juliana Almeida
 
 
 <div style="text-align: center">
@@ -86,39 +86,39 @@
 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
-|**Nome**| nome mulher 1|
-|  **Foto**   | <img width="200px" src="/assets/personas/persona2.jpg"><p>Figura 2 mulher 1</p> 
-|**Descrição** |  Manuel Gomes, idade de 54 anos, morador de Ribeirão Preto.<br> Motorista de aplicativo.<br>Homem. <br>Divorciado,sem filhos. <br>Mora no centro da cidade, Ribeirão Preto.|
+|**Nome**| Juliana Almeida|
+|  **Foto**   | <img width="200px" src="/assets/personas/persona2.jpg"><p>Figura 2 Juliana Almeida</p> 
+|**Descrição** | Juliana Almeida, idade de 38 anos, moradora de Brasília DF.<br> Enfermeira.<br>Mulher. <br>Solteira, devido longos períodos em trabalho no hospital não possui uma vida social muito ativa. <br>Mora na Asa Sul, DF.|
 |**Status** | Antipersona.|
-|**Objetivos**|Manuel nunca se deu muito bem com as novas tecnologias, e apesar de ser um grande motorista ainda passa por grandes dificuldades para se encontrar os melhores trajetos para suas viagens.|
-|**Habilidades**|Manuel Gomes, como motorista, sempre se interessou em buscar os melhores caminhos para melhor aprender suas atividades.
-|**Tarefas**| Todos os dias, Manuel entra no Google Maps e utiliza o aplicativo em algumas de suas viagens para conhecer um pouco melhor seus trajetos e o tempo gasto nos mesmos.
-|**Relacionamentos**| Manuel se relaciona principalmente com seus clientes e amigos.
-|**Requisitos**| Para usuarios com pouca familiaridade com tecnologias, Manuel julga ser muito importante o app Google Maps ser intuitivo e de facil uso.
-|**Expectivativas**| Manuel espera enteder todos os funcionamentos do Google Maps e ser um usuario pleno até o final do ano.|
+|**Objetivos**|Juliana sempre foi uma pessoa muita ativa e focada em seu serviço, dévido sua devoção ao trabalho basicamente cumpre sempre a mesma rota do hospital para casa. Buscando ao máximo não sair de sua rotina.|
+|**Habilidades**|Juliana tem como suas principais habilidades, a empatia por seus pacientes, sua devoção e entrega ao trabalho e ser uma pessoa extremamente discreta e precisa em seus objetivos.
+|**Tarefas**|Todos os dias, Juliana repete sua mesma rota de casa para o trabalho. Procurando ao máximo não desviar muito de sua rotina padrão. Para Juliana suas atividades devem ser quase robotizadas.
+|**Relacionamentos**| Juliana se relaciona principalmente com seus pacientes e colegas de trabalho.
+|**Requisitos**| Devido pouca variação em suas rotas, Juliana não enxerga nenhuma necessidade de se utilizar o Google Maps.
+|**Expectivativas**| Juiana não tem expectativas de uso para o Google Maps.|
 
 <div style="text-align: center">
 <p>Fonte: Lucas Felipe</p>
 </div>
 
-### Nome mulher 2
+### Carolina Silveira
 
 <div style="text-align: center">
-<p>Tabela 3: Persona 2</p>
+<p>Tabela 3: Carolina Silveira</p>
 </div>
 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
-|**Nome**| mulher 2 |
-|  **Foto**   | <img width="200px" src="/assets/personas/persona3.jpg"><p>Figura 3, mulher 2</p> 
-|**Descrição** | Manuel Gomes, idade de 54 anos, morador de Ribeirão Preto.<br> Motorista de aplicativo.<br>Homem. <br>Divorciado,sem filhos. <br>Mora no centro da cidade, Ribeirão Preto.|
-|**Status** | Persona primária.|
-|**Objetivos**|Manuel nunca se deu muito bem com as novas tecnologias, e apesar de ser um grande motorista ainda passa por grandes dificuldades para se encontrar os melhores trajetos para suas viagens.|
-|**Habilidades**|Manuel Gomes, como motorista, sempre se interessou em buscar os melhores caminhos para melhor aprender suas atividades.
-|**Tarefas**| Todos os dias, Manuel entra no Google Maps e utiliza o aplicativo em algumas de suas viagens para conhecer um pouco melhor seus trajetos e o tempo gasto nos mesmos.
-|**Relacionamentos**| Manuel se relaciona principalmente com seus clientes e amigos.
-|**Requisitos**| Para usuarios com pouca familiaridade com tecnologias, Manuel julga ser muito importante o app Google Maps ser intuitivo e de facil uso.
-|**Expectivativas**| Manuel espera enteder todos os funcionamentos do Google Maps e ser um usuario pleno até o final do ano.|
+|**Nome**| Carolina Silveira |
+|  **Foto**   | <img width="200px" src="/assets/personas/persona3.jpg"><p>Figura 3, Carolina Silveira.</p> 
+|**Descrição** | Carolina SIlveira, idade de 46 anos, moradora de Goiânia.<br> Servidora Pública.<br>Mulher. <br>casada,sem filhos. <br>Mora na zona sul da cidade, afastada de seu emprego.|
+|**Status** | Persona secundária.|
+|**Objetivos**|Carolina Silveira, por morar muito afastada de seu emprego e com muito pouco senso de direção, busca formas diferentes de se chegar a tempo em seu trabalho e na sua rota para casa. Explorando variados caminhos e meios de locomoção, Carolina busca conforto de vida e se preocupar com outras coisas.|
+|**Habilidades**|Carolina Silveira, é uma pessoa extremamente ativa e conectada com o mundo digital. Sua capacidade de organização e sua pontualidade fazem que ela se destaque onde quer que ela atue.
+|**Tarefas**| Todos os dias, Carolina entra no Google Maps e utiliza o aplicativo para te guiar nos melhores caminhos para o trabalho ou onde quer que ela queira chegar.
+|**Relacionamentos**| Carolina se relaciona com seu amplo grupo de amigos e família.
+|**Requisitos**| Carolina, espera que ao acessar o aplicativo ela encontre sempre as melhores rotas para seus destinos, um design que combine com sua energia e uma fácil utilização.
+|**Expectivativas**| Carolina espera que o Google Maps continue atendendo suas necessidades de forma prática e efetiva. Carolina acredita que o aplicativo já está muito bom.|
 
 <div style="text-align: center">
 <p>Fonte: Lucas Felipe</p>
@@ -131,6 +131,8 @@
 | 1.0    | 28/10/2022 | Criação da aba Equipe         | Marcus Martins | Alexia Naara e Iago Campelo |
 | 2.0    | 21/11/2022 | Criação do perfil de usuários | Lucas Felipe   | Marcus Martins              |
 | 3.0    | 23/11/2022 | Criação das personas | Lucas Felipe   | Marcus Martins              |
+| 4.0    | 24/11/2022 | Finalização das Personas | Lucas Felipe   | Marcus Martins 
+             |
 
 ## 4. Bibliográfia
 
