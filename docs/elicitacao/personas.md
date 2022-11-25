@@ -6,42 +6,33 @@
 
 ### 1.2 Características dos usuários
 
-- ### Familiaridade com tecnologia
+- #### Familiaridade com tecnologia
 
 &emsp;&emsp; Se espera que os usuários tenham familiaridade com tecnologias similares, reduzindo a curva de aprendizagem na utilização do sistema.
 
-- ### Ferramentas
+- #### Ferramentas
 
 &emsp;&emsp; Se espera que os usuários tenham posse de um smarthphone com acesso a internet para utilizar o aplicativo.
 
-- ### Faixa Etária
+- #### Faixa Etária
 
-&emsp;&emsp; Se espera que os usuários tenham entre 12 e 60 anos de idade. Correspondendo à faixa de idade na qual, geralmente, pessoas costumam se deslocar sozinhas em seus respectivos trajetos.
+&emsp;&emsp; Se espera que os usuários tenham entre 12 e 60 anos de idade. Correspondendo à faixa de idade na qual, geralmente, pessoas costumam utilizar o app.
 
-- ### Necessidades
+- #### Necessidades
 
 &emsp;&emsp; Os usuários do sistema têm como suas principais necessidades: o auxilio na construção de trajetos, a obtenção de informações sobre locais, visualização das avaliações de outros usuários acerca sobre certas localidades.
 
 ### 1.3 Grupos de usuários
 
-&emsp;&emsp; Dentro das principais características dos usuários, podemos os separar em alguns grupos mais gerais de usuários de acordo com alguns atributos similares entre eles. Como por exemplo: 
+&emsp;&emsp; Dentro das principais características dos usuários, podemos os separar em alguns grupos mais gerais de usuários de acordo com alguns atributos similares entre eles, como mostra a tabela 01. Os usuários do perfil A tendem a utilizar o app para visualizar distâncias entre localizações e trajetos de transporte público. Enquanto isso, os do perfil B usam o Google Maps para traçar rotas entre locais e ver estabelecimentos na região.
 
-- ### Motoristas de aplicativo
+|             perfil              |                                  A                                   |                            B                            |
+| :-----------------------------: | :------------------------------------------------------------------: | :-----------------------------------------------------: |
+|          Faixa Etária           |                           Jovem [12 a 18)                            |                    Adulto [18 a 50)                     |
+| Frequência de utilização do app |                    Média (2 a 3 vezes por semana)                    |             Constante (várias vezes ao dia)             |
+|      Principais objetivos       | Ver distância entre locais; Ver informações sobre um estabelecimento | Traçar rotas para uma localização; ver estabelecimentos |
 
-&emsp;&emsp; Esse tipo de usuário, pode utilizar o sistema do Google Maps para melhor traçar suas rotas. Assim possibilitando, uma melhor previsão do seu consumo de combustível e do seus tempos de trajeto.
-
-- ### Usuários de transporte Público
-
-&emsp;&emsp; Esse tipo de usuário, pode utilizar o sistema do Google Maps para poder visualizar trajetos de linhas de ônibus, a distância e o tempo necessário para cumprir seu trajeto.
-
-- ### Avaliadores e potenciais clientes
-
-&emsp;&emsp; Esse tipo de usuário, pode utilizar o sistema do Google Maps para verificar como outros usuários avaliam determinado local e também compartilhar sua experiência com outros usuários. 
-
-- ### Público Geral
-
-&emsp;&emsp; Esse tipo de usuário, pode utilizar o sistema do Google Maps para executar os mais variados serviços disponibilizados na plataforma.  
-
+<figcaption align="center">Tabela 1: Grupos de Usuário</figcaption>
 
 ## 2. Personas
 
@@ -138,3 +129,4 @@
 
 - [Perfil de Usuário](https://pt.theastrologypage.com/user-profile)
 - [Gerador de Faces](https://this-person-does-not-exist.com/pt)
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
