@@ -115,6 +115,29 @@
 <p>Fonte: Lucas Felipe</p>
 </div>
 
+### Ricardo Mendes
+
+<div style="text-align: center">
+<p>Tabela 4: Ricardo Mendes</p>
+</div>
+
+|                     |                                                                                                                                                                                                                                                                                                           |
+| :------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            | Ricardo Mendes                                                                                                                                                                                                                                                                                       |
+| **Foto**            | <img width="200px" src="/assets/personas/persona4.jpeg"><p>Figura 4, Ricardo Mendes.</p>                                                                                                                                                                                                                |
+| **Descrição**       | Ricardo Mendes, idade de 50 anos, morador de Curitiba.<br> Desenvolvedor de Software.<br>Homem. <br>casado, sem filhos. <br>Mora na zona central da cidade.                                                                                                                               |
+| **Status**          | Persona secundária.                                                                                                                                                                                                                                                                                       |
+| **Objetivos**       | Ricardo Mendes, mudou-se recentemente para a cidade de Curitiba(PR). Gosta de utilizar o aplicativo para melhor se situar nas possibilidades de rota de sua nova cidade, nas avaliações dos locais que se deseja conhecer e na maior administração do seu tempo de deslocamento pela cidade. |
+| **Habilidades**     | Ricardo Mendes, é um profissional da tecnologia. Sua habilidade com lógica e criatividade são habilidades marcantes de sua personalidade. Apesar de se considerar uma pessoa descontraída, leva a vida com bastante disciplina.                                                                                                                   |
+| **Tarefas**         | Todos os dias, Ricardo entra no aplicativo do Google Maps para se situar e buscar variadas informações da nova cidade em que se encontra.                                                                                                                         |
+| **Relacionamentos** | Ricardo se relaciona principalmente com a família, amigos e prestadores de serviços gerais.                                                                                                                                                                                                                                            |
+| **Requisitos**      | Ricardo, espera que ao acessar o aplicativo do Google Maps possa aprender cada vez mais sobre a cidade de Curitiba.                                                                                                                                      |
+| **Expectivativas**  | Ricardo espera que o aplicativo o auxilie a se situar nas mais variadas cidades que tiver.                                                                                                                                                  |
+
+<div style="text-align: center">
+<p>Fonte: Lucas Felipe</p>
+</div>
+
 ## 3. Histórico de versão
 
 | Versão | Data       | Modificações                  | Autor          | Revisor                     |
