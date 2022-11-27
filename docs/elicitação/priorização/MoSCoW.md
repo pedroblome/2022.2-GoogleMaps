@@ -12,3 +12,9 @@
 ## Bibliografia
 
 Software Requirements, 3ª edição - Karl Wiegers & Joy Beatty. Acesso em nov. de 2022.
+
+## Histórico de Versão
+
+| Versão | Data       | Modificações                       | Autor          | Revisor      |
+| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
+| 0.1    | 27/11/2022 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |

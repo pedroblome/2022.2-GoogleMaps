@@ -20,3 +20,9 @@ A lógica das cores nesse método, é:
 Software Requirements, 3ª edição - Karl Wiegers & Joy Beatty. Acesso em nov. de 2022.
 
 [Priorização de Projetos](https://rockcontent.com/br/blog/priorizacao-de-projetos/)
+
+## Histórico de Versão
+
+| Versão | Data       | Modificações                       | Autor          | Revisor      |
+| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
+| 0.1    | 27/11/2022 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |
