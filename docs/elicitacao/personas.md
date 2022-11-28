@@ -28,7 +28,7 @@
 
 <figcaption align="center">Tabela 1: Grupos de Usuário</figcaption>
 
-|             perfil              |                                  A                                   |                            B                            |
+|             Perfil              |                                  A                                   |                            B                            |
 | :-----------------------------: | :------------------------------------------------------------------: | :-----------------------------------------------------: |
 |          Faixa Etária           |                           Jovem [12 a 18)                            |                    Adulto [18 a 50)                     |
 | Frequência de utilização do app |                    Média (2 a 3 vezes por semana)                    |             Constante (várias vezes ao dia)             |
@@ -43,7 +43,7 @@
 
 ### 2.2 Metodologias
 
-&emsp;&emsp;Os membros, Lucas Felipe e Luciano Freitas foram os responsaveis por criar personas que retratariam os usuarios mais comuns do Google Maps. A partir desses requisitos e da pesquisa de grupos de usuários, as personas básicas que mais utilizariam esses requisitos foram buscadas. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Apesar de se tratar de imagens de pessoas não reais, é de suma importância a humanização do projeto e melhor guiar toda a equipe do projeto. Todas as imagens utilizadas nesse artefato foram retiradas do site This Person Doest Not Exist, um site que utiliza de inteligencia atificial para criar imagens sem copyright.
+&emsp;&emsp;Foram criadas personas que retratariam os usuarios mais comuns do Google Maps. A partir desses requisitos e da pesquisa de grupos de usuários, as personas básicas que mais utilizariam esses requisitos foram buscadas. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Apesar de se tratar de imagens de pessoas não reais, é de suma importância a humanização do projeto e melhor guiar toda a equipe do projeto. Todas as imagens utilizadas nesse artefato foram retiradas do site This Person Doest Not Exist, um site que utiliza de inteligencia atificial para criar imagens sem copyright.
 
 ### 2.3 Personas
 
@@ -80,9 +80,9 @@
 | :------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**            | Juliana Almeida                                                                                                                                                                                                            |
 | **Foto**            | <img width="200px" src="/assets/personas/persona2.jpg"><p>Figura 2, Juliana Almeida</p>                                                                                                                                    |
-| **Descrição**       | Juliana Almeida, idade de 38 anos, moradora de Brasília-DF.<br> Enfermeira.<br>Mulher. <br>Solteira, devido longos períodos em trabalho no hospital não possui uma vida social muito ativa. <br>Mora na Asa Sul da cidade. |
+| **Descrição**       | Juliana Almeida, idade de 38 anos, moradora de Brasília-DF.<br> Enfermeira.<br>Mulher. <br>Solteira, devido longos períodos em trabalho no hospital não possui uma vida social muito ativa. <br>Moradora da Asa Sul. |
 | **Status**          | Antipersona.                                                                                                                                                                                                               |
-| **Objetivos**       | Juliana sempre foi uma pessoa muita ativa e focada em seu serviço. Devido a sua devoção ao trabalho, cumpre sempre a mesma rota do hospital para casa, buscando ao máximo não sair de sua rotina.                          |
+| **Objetivos**       | Juliana sempre foi uma pessoa muita ativa e focada em seu serviço. Devido à sua devoção ao trabalho, cumpre sempre a mesma rota do hospital para casa, buscando ao máximo não sair de sua rotina.                          |
 | **Habilidades**     | Juliana tem como suas principais habilidades: a empatia por seus pacientes; sua devoção ao trabalho; ser uma pessoa extremamente discreta e precisa em seus objetivos.                                                     |
 | **Tarefas**         | Todos os dias, Juliana repete a mesma rota de casa para o trabalho, procurando ao máximo não desviar muito de sua rotina padrão. Para Juliana suas atividades devem ser quase robotizadas.                                 |
 | **Relacionamentos** | Juliana se relaciona principalmente com seus pacientes e colegas de trabalho.                                                                                                                                              |
