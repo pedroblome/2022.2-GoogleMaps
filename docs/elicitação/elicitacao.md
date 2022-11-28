@@ -28,7 +28,7 @@
 | ------ | ---------- | ----------------------------- | -------------- | --------------------------- |
 | 28/10/2022    | 1.0 | Criação da aba Equipe         | Marcus Martins | Alexia Naara e Iago Campelo |
 | 21/11/2022    | 2.0 | Criação do perfil de usuários | Lucas Felipe   | Marcus Martins    
-| 28/11/2022    | 3.0 | Atualiza correções da primeira entrega| Lucas Felipe   | Iago Campelo       
+| 28/11/2022    | 3.0 | Padronização de bibliográgia e histórico de versões| Lucas Felipe   | todos       
 
 ## 3. Bibliográfia
 

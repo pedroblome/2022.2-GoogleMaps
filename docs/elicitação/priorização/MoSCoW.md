@@ -14,7 +14,7 @@
 | Data | Versão       | Modificações                       | Autor          | Revisor      |
 | ------ | ---------- | ---------------------------------- | -------------- | ------------ |
 | 27/11/2022   | 1.0 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |
-| 28/11/2022   | 2.0 | Correções da primeira entrega | Lucas Felipe | Marcus Martins |
+| 28/11/2022   | 2.0 | Correções da bibliografia e histórico de versões | Lucas Felipe | Todos|
 
 ## 3. Bibliografia
 
