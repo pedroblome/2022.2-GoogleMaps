@@ -1,5 +1,8 @@
 # Entregas
 
-| Versão | Data       | Modificações                       | Autor          | Revisor      |
+## 1. Histórico de Versão
+
+| Data | Versão       | Modificações                       | Autor          | Revisor      |
 | ------ | ---------- | ---------------------------------- | -------------- | ------------ |
-| 1.0    | 28/10/2022 | Criação da aba Pré-Rastreabilidade | Marcus Martins | Alexia Naara |
+| 28/10/2022  | 1.0 | Criação da aba Pré-Rastreabilidade | Marcus Martins | Alexia Naara |
+| 28/11/2022  | 2.0 | Correção da primeira entrega | Lucas Felipe | Iago Campelo |

@@ -68,14 +68,14 @@ O "UnB HUB" é um aplicativo que permite encontrar uma série de informações s
   <figcaption>Fonte: Luciano de Freitas</figcaption>
 </figure>
 
-## Histórico de Versões
+## 7. Histórico de Versões
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--: | :----: | :-------: | :---: | :---: |
-| 08/11/2022 | 0.1 | Criação da página | Luíza | Marcus |
-| 10/11/2022 | 0.2 | Correções gramaticais e de concordância | Luíza e Lucas Felipe| Marcus e Iago |
+| 08/11/2022 | 1.0 | Criação da página | Luíza | Marcus |
+| 10/11/2022 | 2.0 | Correções gramaticais e de concordância | Luíza e Lucas Felipe| Marcus e Iago |
 
-## Referências Bibliográficas
+## 8. Referências Bibliográficas
 
 [Sinesp](https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=US&pli=1)
 

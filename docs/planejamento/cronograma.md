@@ -135,4 +135,4 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 | Versão |    Data    |           Modificações            |              Autor               |   Revisor    |
 | :----: | :--------: | :-------------------------------: | :------------------------------: | :----------: |
 |  1.0   | 09/11/2022 |     Criação da aba Cronograma     | Marcus Martins e Luciano Freitas | Iago Campelo |
-|  1.1   | 17/11/2022 | Alteração no padrão do Cronograma | Marcus Martins e Luciano Freitas | Iago Campelo |
+|  2.0   | 17/11/2022 | Alteração no padrão do Cronograma | Marcus Martins e Luciano Freitas | Iago Campelo |

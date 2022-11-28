@@ -100,9 +100,9 @@
 
 | Data  | Versão | Descrição | Autor | Revisores |
 | :---: | :----: | :-------: | :---: |: -----:    |
-| 08/11/2022 | 0.1 | Criação da página e inserção de metodologias/política de branches e commits | Iago Campelo e Lucas Felipe | Luciano Freitas e Luiza Esteves |
-| 15/11/2022 | 0.2 | Criação da página de ferramentas | Lucas Felipe | Marcus Martins|
-| 23/11/2022 | 0.3 | Atualização da página de ferramentas | Lucas Felipe | Marcus Martins|
+| 08/11/2022 | 1.0 | Criação da página e inserção de metodologias/política de branches e commits | Iago Campelo e Lucas Felipe | Luciano Freitas e Luiza Esteves |
+| 15/11/2022 | 2.0| Criação da página de ferramentas | Lucas Felipe | Marcus Martins|
+| 23/11/2022 | 3.0| Atualização da página de ferramentas | Lucas Felipe | Marcus Martins|
       
 
 ## 6. Bibliografia

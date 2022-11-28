@@ -9,12 +9,13 @@
 - **Could**: Inclui capacidades desejadas que serão implementadas caso o tempo e os recursos permitam.
 - **Won't**: Indica requisitos que não serão implementados por agora, mas podem ser incluídos em entregas futuras.
 
-## Bibliografia
+## 2. Histórico de Versão
+
+| Data | Versão       | Modificações                       | Autor          | Revisor      |
+| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
+| 27/11/2022   | 1.0 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |
+| 28/11/2022   | 2.0 | Correções da primeira entrega | Lucas Felipe | Marcus Martins |
+
+## 3. Bibliografia
 
 Software Requirements, 3ª edição - Karl Wiegers & Joy Beatty. Acesso em nov. de 2022.
-
-## Histórico de Versão
-
-| Versão | Data       | Modificações                       | Autor          | Revisor      |
-| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
-| 0.1    | 27/11/2022 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |

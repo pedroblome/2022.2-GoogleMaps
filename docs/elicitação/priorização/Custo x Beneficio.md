@@ -15,14 +15,16 @@ A lógica das cores nesse método, é:
 - Verde: se trata de um projeto com baixo custo, mas que não trará muitos benefícios;
 - Azul: é a melhor das opções, pois representa os melhores resultados possíveis para um projeto.
 
-## Bibliografia
+## 2. Histórico de Versão
+
+| Data | Versão       | Modificações                       | Autor          | Revisor      |
+| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
+| 27/11/2022   | 1.0 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |
+| 28/11/2022   | 2.0 | Correções da primeira entrega | Lucas Felipe | Marcus Martins |
+
+
+## 3. Bibliografia
 
 Software Requirements, 3ª edição - Karl Wiegers & Joy Beatty. Acesso em nov. de 2022.
 
 [Priorização de Projetos](https://rockcontent.com/br/blog/priorizacao-de-projetos/)
-
-## Histórico de Versão
-
-| Versão | Data       | Modificações                       | Autor          | Revisor      |
-| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
-| 0.1    | 27/11/2022 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |

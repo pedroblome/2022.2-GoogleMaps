@@ -34,9 +34,9 @@ Na Figura 2 é possível verificar a legenda dos rich picture desenvolvido:
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | :--: | :----: | :-------: | :---: | :---: |
-| 08/11/2022 | 0.1 | Criação da página de Rich Picture | Luíza | Marcus |
-| 10/11/2022 | 0.2 | Alteração do aplicativo escolhido | Luíza | Marcus e Iago |
-| 18/11/2022 | 0.3 | Inclui imagem do rich picture | Alexia | Iago |
+| 08/11/2022 | 1.0 | Criação da página de Rich Picture | Luíza | Marcus |
+| 10/11/2022 | 2.0 | Alteração do aplicativo escolhido | Luíza | Marcus e Iago |
+| 18/11/2022 | 3.0 | Inclui imagem do rich picture | Alexia | Iago |
 
 ## 4. Bibliografia
 

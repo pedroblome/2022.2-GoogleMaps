@@ -203,6 +203,6 @@ Horário de término da reunião: 21:10
 
 |    Data    | Versão |                          Descrição                          |    Autor     |  Revisores   |
 | :--------: | :----: | :---------------------------------------------------------: | :----------: | :----------: |
-| 03/11/2022 |  0.1   |                      Criação da página                      |     Iago Campelo | Alexia Naara |
-| 16/11/2022 |  0.2   | Atualização com segunda reunião e mudanças no padrão de ata | Iago Campelo | Alexia Naara |
-| 19/11/2022 | 0.3 | Atualização com terceira reunião | Iago Campelo | Alexia Naara |
+| 03/11/2022 |  1.0  |                      Criação da página                      |     Iago Campelo | Alexia Naara |
+| 16/11/2022 |  2.0  | Atualização com segunda reunião e mudanças no padrão de ata | Iago Campelo | Alexia Naara |
+| 19/11/2022 | 3.0 | Atualização com terceira reunião | Iago Campelo | Alexia Naara |
