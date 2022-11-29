@@ -7,11 +7,11 @@
 &emsp;&emsp;As atas estão sendo feitas no seguinte modelo: roteiro sendo planejado anteriormente de acordo com o que foi definido na última reunião para ser entregue (objetivos); horário de início e fim de reunião e o redator
 ; ata sendo feita durante a reunião tendo documentado tudo o que é falado e/ou comentado(discussão) em tópicos para que seja melhor entendida; e pós-ata sendo feita após a reunião com tudo o que será feito na próxima sprint (conclusão). Links para reunião ao fim de cada documento de reunião. As atas são entregues em formato .md.
 
-### 2.1 Reunião 03/11
+## 2.1 Reunião 03/11
 
 Ata redigida por Iago Campelo
 
-#### 2.1.1 Objetivos para a reunião
+### 2.1.1 Objetivos para a reunião
 
 - Dividir os responsáveis por cada artefato
 - Decidir as divisões de responsabilidades
@@ -26,7 +26,7 @@ Ata redigida por Iago Campelo
 - Compartilhar os Rich Pictures
 - Decidir o app
 
-#### 2.1.2 Discussão
+### 2.1.2 Discussão
 
 - Apresentação dos Rich Pictures
       - Lucas → Carteira Digital de Trânsito
@@ -48,7 +48,7 @@ Ata redigida por Iago Campelo
           - Carteira Digital de Trânsito
       - Discutimos sobre como seriam entrevistas para todos
 
-#### 2.1.3 Decisões
+### 2.1.3 Decisões
 
 - Revisões por sprint, são decididas a cada sprint
 - Planejamento do projeto
@@ -66,11 +66,11 @@ Ata redigida por Iago Campelo
 - App decidido a 1º plano: UnB Hub
     - Caso seja um problema ele não estar público na play store, vamos fazer da Carteira Digital de Trânsito
 
-#### Link da Reunião
+### 2.1.4 Link da Reunião
 
 [Reunião 03/11](https://youtu.be/XpR-o2HbIqw)
 
-### 2.2 Reunião 10/11
+## 2.2 Reunião 10/11
 
 Ata redigida por Iago Campelo
 
@@ -78,16 +78,16 @@ Horário de início da reunião: 20:11
 
 Horário de término da reunião: 21:02
 
-#### 2.2.1 Objetivos para a reunião
+### 2.2.1 Objetivos para a reunião
 
 - Alinhar sobre as atividades;
 - Conversar sobre o aplicativo;
 - Sobre o tempo da sprint;
 - Falar com Alexia sobre compartilhar função de mantenedor.
 
-#### 2.2.2 Discussão
+### 2.2.2 Discussão
 
-##### 2.2.2.1 Atividades
+#### 2.2.2.1 Atividades
 
 - Atividade de Lucas e Iago finalizadas;
     - Falta revisão.
@@ -96,21 +96,21 @@ Horário de término da reunião: 21:02
 - Atividade do Marcus e Luciano;
     - Adicionar cronograma de sprints.
 
-##### 2.2.2.2 Aplicativo
+#### 2.2.2.2 Aplicativo
 
 - UnB HUB não é possível pois não tem login/registro, nem atualizações, nem é disponível na store;
 - Ficaremos com a Carteira Digital de Trânsito.
 
-##### 2.2.2.3 Tempo da sprint
+#### 2.2.2.3 Tempo da sprint
 
 - Mudar para sprint de 7 dias;
 - Mais fácil de definir.
 
-##### 2.2.2.4 Mantenedor
+#### 2.2.2.4 Mantenedor
 
 - Colocar todos de mantenedores do github.
 
-#### 2.2.3 Decisões
+### 2.2.3 Decisões
 
 - Luísa vai alterar sobre a questão da página do RichPicture e o README com o aplicativo;
 - Alexia colocar todos de mantenedor do github;
@@ -120,11 +120,11 @@ Horário de término da reunião: 21:02
 - Iago vai fazer issues da Alexia junto com a mesma, portanto não vai fazer mais revisões;
 - Marcus e Lucas responsáveis pela revisão na próxima sprint;
 
-#### Link da reunião
+### 2.2.4 Link da reunião
 
 [Reunião 10/11](https://youtu.be/e0kn0YUKiBg)
 
-### 2.3 Reunião 17/11
+## 2.3 Reunião 17/11
 
 Ata redigida por Iago Campelo
 
@@ -195,9 +195,98 @@ Horário de término da reunião: 21:10
     - Legenda no gitpages
 - Os contribuidores serão avaliados através dos pull requests
 
-## Link de Reunião
+### 2.3.6 Link de Reunião
 
 [Reunião 17/11](https://youtu.be/WzDFwzQUbu4)
+
+## 2.4 Reunião 29/11
+
+Ata redigida por Iago Campelo
+
+Horário de início da reunião: 19:12
+
+Horário de término da reunião: 20:04
+
+### 2.4.1 Objetivos para a reunião
+
+- Alinhar coisas já feitas dessa sprint;
+- Alinhar tarefas para a gravação do dia seguinte;
+- Mudança de horário de reunião semanal;
+- Atribuir tarefas para a apresentação.
+
+### 2.4.2 Discussão
+
+#### 2.4.2.1 Alinhar tarefas anteriores
+
+- Luíza pareou com a Alexia
+    - Alexia
+        - Organizou técnicas de elicitação
+        - Observações
+        - Questionários
+    - Luíza
+        - Fez as duas entrevistas
+        - Falta alinhar as informações e colocar no documento
+- Luciano e Lucas
+    - Grupos de usuário e personas
+    - Já finalizaram as atividades até anteontem
+    - Lucas
+        - Personas e maior parte do perfil de usuário
+    - Luciano
+        - Terminou o perfil de usuário
+        - Falta pegar os resultados do forms para conseguir separar entre grupos
+        - Ajustou imagens colocando extensão no mkdocs para usar markdown-html
+- Marcus e Iago
+    - Técnicas de priorização
+    - Escolhido MoSCoW, e matriz BASICO e Custo x Beneficio
+- Faltam terminar as atividades alinhadas pelo monitor
+
+#### 2.4.2.2 Alinhar tarefas até 16h
+
+- Adicionar referências bibliográficas em todas as páginas no formato ABNT: SOBRENOME, Nome Abreviado. Título: subtítulo (se houver). Edição (se houver). Local de publicação: Editora, ano de publicação. → Iago Campelo
+- Adicionar texto chamando as imagens/tabelas. → Luciano Melo
+- Adicionar cronograma executado e planejado. → Luciano Melo e Marcus Martins
+- Definir responsáveis e revisores em todas as tarefas do cronograma. → Iago Campelo
+- Definir e adicionar ferramenta de elaboração de personas.→ Iago Campelo
+
+#### 2.4.2.3 Quem vai falar o que na reunião
+
+- Especificação do perfil → Luciano Melo;
+    - as informações;
+    - sobre os grupos.
+- Personas → Lucas Soares;
+    - Como as personas foram criadas (qual foi a base, foi o perfil do usuário?);
+    - Ferramenta e motivação da criação;
+    - Quantas personas e por que?
+- Técnicas de elicitação → Alexia e Luíza;
+    - Luíza
+        - Introdução;
+        - Entrevistas, como foram feitas;
+        - Cronograma.
+    - Alexia
+        - Quais técnicas escolhidas e porque;
+        - Como foram feitas as observações;
+        - Cronograma;
+        - Questionário.
+- Técnicas de priorização → Iago e Marcus;
+    - Iago
+        - Quais técnicas escolhidas e porquê.
+    - Marcus
+        - Participação do cliente e ou/persona;
+        - A gravação e o registro da atividade de priorização.
+
+### 2.4.4 Dúvidas
+
+-
+
+### 2.4.5 Conclusões
+
+- Tarefas atribuídas até a gravação para correções;
+- Funções atribuídas anteriormente para a gravação da apresentação;
+- Iago e Marcus vão fazer a priorização de requisitos até 18h de amanhã.
+
+### 2.4.6 Link para reunião
+
+Reunião feita presencialmente, portanto sem gravação.
 
 ## 3. Histórico de Versões
 
@@ -206,3 +295,4 @@ Horário de término da reunião: 21:10
 | 03/11/2022 |  1.0   |                      Criação da página                      | Iago Campelo | Alexia Naara |
 | 16/11/2022 |  2.0   | Atualização com segunda reunião e mudanças no padrão de ata | Iago Campelo | Alexia Naara |
 | 19/11/2022 |  3.0   |              Atualização com terceira reunião               | Iago Campelo | Alexia Naara |
+| 29/11/2022 |  4.0   |  Atualização com quarta reunião e mudança no padrão de ata  | Iago Campelo | Alexia Naara |
