@@ -70,10 +70,10 @@ O "UnB HUB" é um aplicativo que permite encontrar uma série de informações s
 
 ## 7. Histórico de Versões
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-| :--: | :----: | :-------: | :---: | :---: |
-| 08/11/2022 | 1.0 | Criação da página | Luíza | Marcus |
-| 10/11/2022 | 2.0 | Correções gramaticais e de concordância | Luíza e Lucas Felipe| Marcus e Iago |
+|    Data    | Versão |              Modificações               |      Autor(es)       |  Revisor(es)  |
+| :--------: | :----: | :-------------------------------------: | :------------------: | :-----------: |
+| 08/11/2022 |  1.0   |            Criação da página            |        Luíza         |    Marcus     |
+| 10/11/2022 |  2.0   | Correções gramaticais e de concordância | Luíza e Lucas Felipe | Marcus e Iago |
 
 ## 8. Referências Bibliográficas
 

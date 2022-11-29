@@ -98,8 +98,8 @@
 
 ## 5. Histórico de versão
 
-| Data  | Versão | Descrição | Autor | Revisores |
-| :---: | :----: | :-------: | :---: |: -----:    |
+| Data  | Versão | Modificações | Autor(es) | Revisor(es) |
+| :---: | :----: | :----------: | :-------: |: -----:    |
 | 08/11/2022 | 1.0 | Criação da página e inserção de metodologias/política de branches e commits | Iago Campelo e Lucas Felipe | Luciano Freitas e Luiza Esteves |
 | 15/11/2022 | 2.0| Criação da página de ferramentas | Lucas Felipe | Marcus Martins|
 | 23/11/2022 | 3.0| Atualização da página de ferramentas | Lucas Felipe | Marcus Martins|

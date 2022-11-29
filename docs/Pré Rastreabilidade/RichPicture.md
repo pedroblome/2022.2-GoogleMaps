@@ -32,11 +32,11 @@ Na Figura 2 é possível verificar a legenda dos rich picture desenvolvido:
 
 ## 3. Histórico de Versões
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-| :--: | :----: | :-------: | :---: | :---: |
-| 08/11/2022 | 1.0 | Criação da página de Rich Picture | Luíza | Marcus |
-| 10/11/2022 | 2.0 | Alteração do aplicativo escolhido | Luíza | Marcus e Iago |
-| 18/11/2022 | 3.0 | Inclui imagem do rich picture | Alexia | Iago |
+|    Data    | Versão |           Modificações            | Autor(es) |  Revisor(es)  |
+| :--------: | :----: | :-------------------------------: | :-------: | :-----------: |
+| 08/11/2022 |  1.0   | Criação da página de Rich Picture |   Luíza   |    Marcus     |
+| 10/11/2022 |  2.0   | Alteração do aplicativo escolhido |   Luíza   | Marcus e Iago |
+| 18/11/2022 |  3.0   |   Inclui imagem do rich picture   |  Alexia   |     Iago      |
 
 ## 4. Bibliografia
 
