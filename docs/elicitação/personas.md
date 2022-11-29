@@ -26,14 +26,15 @@
 
 &emsp;&emsp; Dentro das principais características dos usuários, podemos os separar em alguns grupos mais gerais de usuários de acordo com alguns atributos similares entre eles, como mostra a tabela 01. Os usuários do perfil A tendem a utilizar o app para visualizar distâncias entre localizações e trajetos de transporte público. Enquanto isso, os do perfil B usam o Google Maps para traçar rotas entre locais e ver estabelecimentos na região.
 
-<figcaption align="center">Tabela 1: Grupos de Usuário</figcaption>
-
 |             Perfil              |                                  A                                   |                            B                            |
 | :-----------------------------: | :------------------------------------------------------------------: | :-----------------------------------------------------: |
 |          Faixa Etária           |                           Jovem [12 a 18)                            |                    Adulto [18 a 50)                     |
 | Frequência de utilização do app |                    Média (2 a 3 vezes por semana)                    |             Constante (várias vezes ao dia)             |
 |      Principais objetivos       | Ver distância entre locais; Ver informações sobre um estabelecimento | Traçar rotas para uma localização; ver estabelecimentos |
-
+<figure markdown>
+<figcaption align="center">Tabela 1: Grupos de Usuário</figcaption>
+<figcaption align="center">Fonte: Elaboração própria</figcaption>
+</figure>
 
 ## 2. Personas
 
@@ -125,7 +126,7 @@
 |                     |                                                                                                                                                                                                                                                                                           |
 | :------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**            | Ricardo Mendes                                                                                                                                                                                                                                                                            |
-| **Foto**            | <figure markdown> ![Foto de perfil de Ricardo](../assets/personas/persona4.jpeg){ width="200px" } <figcaption>Figura 4, Ricardo Mendes</figcaption></figure>                                                                                                                               |
+| **Foto**            | <figure markdown> ![Foto de perfil de Ricardo](../assets/personas/persona4.jpeg){ width="200px" } <figcaption>Figura 4, Ricardo Mendes</figcaption></figure>                                                                                                                              |
 | **Descrição**       | Ricardo Mendes, idade de 50 anos, morador de Curitiba-PR.<br> Desenvolvedor de Software.<br>Homem. <br>Casado, sem filhos. <br>Mora na zona central da cidade.                                                                                                                            |
 | **Status**          | Persona secundária.                                                                                                                                                                                                                                                                       |
 | **Objetivos**       | Ricardo Mendes, mudou-se recentemente para a cidade de Curitiba(PR). Gosta de utilizar o aplicativo para melhor se situar nas possibilidades de rota de sua nova cidade, nas avaliações dos locais que deseja conhecer e na maior administração do seu tempo de deslocamento pela cidade. |
@@ -141,14 +142,15 @@
 
 ## 3. Histórico de versão
 
-| Versão | Data       | Modificações                     | Autor           | Revisor                     |
-| ------ | ---------- | -------------------------------- | --------------- | --------------------------- |
-| 1.0    | 28/10/2022 | Criação da aba Equipe            | Marcus Martins  | Alexia Naara e Iago Campelo |
-| 2.0    | 21/11/2022 | Criação do perfil de usuários    | Lucas Felipe    | Marcus Martins              |
-| 3.0    | 23/11/2022 | Criação das personas             | Lucas Felipe    | Marcus Martins              |
-| 4.0    | 24/11/2022 | Finalização das Personas         | Lucas Felipe    | Marcus Martins              |
-| 4.1    | 25/11/2022 | Alterações no perfil de usuários | Luciano Freitas | Marcus Martins              |
-| 4.2    | 27/11/2022 | Correções no artefato            | Luciano Freitas | Marcus Martins              |
+| Data       | Versão | Modificações                         | Autor(es)       | Revisor(es)                 |
+| ---------- | ------ | ------------------------------------ | --------------- | --------------------------- |
+| 28/10/2022 | 1.0    | Criação da aba Equipe                | Marcus Martins  | Alexia Naara e Iago Campelo |
+| 21/11/2022 | 2.0    | Criação do perfil de usuários        | Lucas Felipe    | Marcus Martins              |
+| 23/11/2022 | 3.0    | Criação das personas                 | Lucas Felipe    | Marcus Martins              |
+| 24/11/2022 | 4.0    | Finalização das Personas             | Lucas Felipe    | Marcus Martins              |
+| 25/11/2022 | 5.0    | Alterações no perfil de usuários     | Luciano Freitas | Marcus Martins              |
+| 27/11/2022 | 6.0    | Correções no artefato                | Luciano Freitas | Marcus Martins              |
+| 28/11/2022 | 7.0    | Padronização do histórico de versões | Lucas Felipe    | Luciano de Freitas          |
 
 ## 4. Bibliografia
 > O que é um perfil de usuário?. theastrologypage, 2022. Acesso em: 23 de nov. de 2022. Disponível em: https://pt.theastrologypage.com/user-profile)
