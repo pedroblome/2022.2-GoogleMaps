@@ -16,10 +16,10 @@ Depois de somar a nota de cada tópico, use a pontuação total para comparar co
 
 ## 2. Histórico de Versão
 
-| Versão | Data       | Modificações                       | Autor          | Revisor      |
-| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
-| 1.0   | 27/11/2022 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |
-| 2.0   | 28/11/2022 | Correções da bibliografia e histórico de versões | Lucas Felipe | ----- |
+| Versão | Data       | Modificações                         | Autor                         | Revisor            |
+| ------ | ---------- | ------------------------------------ | ----------------------------- | ------------------ |
+| 1.0    | 27/11/2022 | Adiciona técnicas de priorização     | Iago Campelo e Marcus Martins | Lucas Felipe       |
+| 2.0    | 28/11/2022 | Padronização do histórico de versões | Lucas Felipe                  | Luciano de Freitas |
 
 ## 3. Bibliografia
 - [Matriz Básico](https://rockcontent.com/br/blog/matriz-basico/)

@@ -24,11 +24,11 @@
 
 ## 2. Histórico de versão
 
-| Data | Versão       | Modificações                  | Autor          | Revisor                     |
-| ------ | ---------- | ----------------------------- | -------------- | --------------------------- |
-| 28/10/2022    | 1.0 | Criação da aba Equipe         | Marcus Martins | Alexia Naara e Iago Campelo |
-| 21/11/2022    | 2.0 | Criação do perfil de usuários | Lucas Felipe   | Marcus Martins    
-| 28/11/2022    | 3.0 | Padronização de bibliográgia e histórico de versões| Lucas Felipe   | todos       
+| Data       | Versão | Modificações                         | Autor          | Revisor                     |
+| ---------- | ------ | ------------------------------------ | -------------- | --------------------------- |
+| 28/10/2022 | 1.0    | Criação da aba Equipe                | Marcus Martins | Alexia Naara e Iago Campelo |
+| 21/11/2022 | 2.0    | Criação do perfil de usuários        | Lucas Felipe   | Marcus Martins              |
+| 28/11/2022 | 3.0    | Padronização do histórico de versões | Lucas Felipe   | Luciano de Freitas          |
 
 ## 3. Bibliográfia
 
