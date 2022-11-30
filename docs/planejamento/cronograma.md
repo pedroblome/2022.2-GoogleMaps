@@ -28,6 +28,8 @@
 
 ### 3.1 Etapa 1
 
+&emsp;&emsp;A etapa 1 consiste na organização da equipe, com a criação e padronização do Github Pages, além de decisões feitas pelo grupo. Ademais, também há o início do projeto, onde é feita a pré-rastreabilidade do aplicativo. Todas as tarefas dessa etapa estão detalhadas na tabela 2.
+
 <figcaption align="center">Tabela 2: Cronograma da etapa 1 do projeto.</figcaption>
 
 | Data limite para entrega |                  Tarefa/Entrega                   |     Responsáveis      |    Revisores    | Data limite de revisão |
@@ -50,6 +52,8 @@
 
 ### 3.2 Etapa 2
 
+ &emsp;&emsp; Nessa etapa é feita a parte de perfil de usuário, com a criação das personas, além da elicitação e priorização dos requisitos do app, como mostra a tabela 3.
+
 <figcaption align="center">Tabela 3: Cronograma da etapa 2 do projeto.</figcaption>
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   |  Responsáveis   | Revisores | Data limite de revisão |
@@ -57,18 +61,22 @@
 |        18/11/2022        | Planejamento da etapa 02: Separação e distribuição das atividades para os membros |      Todos      |   Todos   |          ---           |
 |        22/11/2022        |                        Especificação do Perfil do usuário                         | Lucas e Luciano |   Luiza   |       24/11/2022       |
 |        22/11/2022        |   Cronograma de realização com o cliente/persona para Elicitação e Priorização    | Luíza e Alexia  |   Iago    |       28/11/2022       |
-|        24/11/2022        |                              Técnica de Elicitação 1                              |     Alexia      |   Lucas   |       28/11/2022       |
-|        24/11/2022        |                              Técnica de Elicitação 2                              |     Alexia      |   Lucas   |       28/11/2022       |
-|        24/11/2022        |                              Técnica de Elicitação 3                              |      Luíza      |   Lucas   |       28/11/2022       |
+|        24/11/2022        |                        Técnica de Elicitação 1: Entrevista                        |     Alexia      |   Lucas   |       28/11/2022       |
+|        24/11/2022        |                       Técnica de Elicitação 2: Questionário                       |     Alexia      |   Lucas   |       28/11/2022       |
+|        24/11/2022        |                        Técnica de Elicitação 3: Observação                        |      Luíza      |   Lucas   |       28/11/2022       |
 |        25/11/2022        |                                  Personas do app                                  |      Lucas      |   Luíza   |       28/11/2022       |
-|        27/11/2022        |                             Técnica de Priorização 1                              |      Iago       |   Lucas   |       29/11/2022       |
-|        27/11/2022        |                             Técnica de Priorização 2                              |     Marcus      |   Lucas   |       29/11/2022       |
+|        27/11/2022        |                         Técnica de Priorização 1: BASICO                          |      Iago       |   Lucas   |       29/11/2022       |
+|        27/11/2022        |                    Técnica de Priorização 2: Custo X Benefício                    |     Marcus      |   Lucas   |       29/11/2022       |
 |        29/11/2022        |                               Vídeo de apresentação                               |      Todos      |  Luciano  |       30/11/2022       |
 
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
 
 ### 3.1 Etapa 3
+
+ &emsp;&emsp; Etapa em que são modelados os requisitos, com uma abordagem mais tradicional. As tarefas e entregas principais dessa etapa estão presentes na tabela 4.
+
+
 <figcaption align="center">Tabela 4: Cronograma da etapa 3 do projeto.</figcaption>
 | Data limite para entrega |                                  Tarefa/Entrega                                   |   Responsáveis   | Revisores | Data limite de revisão |
 | :----------------------: | :-------------------------------------------------------------------------------: | :--------------: | :-------: | :--------------------: |
@@ -83,6 +91,9 @@
 
 
 ### 3.1 Etapa 4
+
+ &emsp;&emsp; A tabela 5 mostra as definições para a etapa 4, que é a continuação da modelagem dos requisitos, agora de uma perspectiva ágil.
+
 
 <figcaption align="center">Tabela 5: Cronograma da etapa 4 do projeto.</figcaption>
 
@@ -101,6 +112,9 @@
 
 ### 3.1 Etapa 5
 
+ &emsp;&emsp; Na etapa 5 é feita a verificação de todos os artefatos gerados pela equippe, e está detalhado na tabela 6.
+
+
 <figcaption align="center">Tabela 6: Cronograma da etapa 5 do projeto.</figcaption>
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis  |   Revisores    | Data limite de revisão |
@@ -114,6 +128,8 @@
 
 
 ### 3.1 Etapa 6
+
+ &emsp;&emsp; Etapa que ocorre a validação dos requisitos, como especifica a tabela 7, apresentada a seguir:
 
 <figcaption align="center">Tabela 7: Cronograma da etapa 6 do projeto.</figcaption>
 
@@ -129,6 +145,8 @@
 
 ### 3.1 Etapa 7
 
+ &emsp;&emsp; A tabela 8 apresenta os detalhes da etapa 7 do projeto, em que ocorre a pós-rastreabilidade dos requisitos.
+
 <figcaption align="center">Tabela 8: Cronograma da etapa 7 do projeto.</figcaption>
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   |  Responsáveis  | Revisores | Data limite de revisão |
@@ -142,6 +160,8 @@
 
 
 ### 3.1 Etapa 8
+
+ &emsp;&emsp; A etapa 8 é o último passo do projeto, onde são feitas as correções finais e complementos do projeto. A tabela 9 ilustra em detalhes essa etapa.
 
 <figcaption align="center">Tabela 9: Cronograma da etapa 8 do projeto.</figcaption>
 
