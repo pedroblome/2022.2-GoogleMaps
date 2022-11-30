@@ -2,9 +2,14 @@
 
 ## 1. Introdução
 
-&emsp;&emsp;Esse método de priorização de projetos é o mais fácil de compreender, afinal, muitas pessoas já estão familiarizadas com o termo “custo x benefício”. Nesse caso, a matriz ajuda a esclarecer qual o valor de um projeto e a relação disso com o resultado esperado do projeto. Para fazer esse balanço, utilizamos uma matriz dividida por cores e quadrantes, assim:
+&emsp;&emsp;Esse método de priorização de projetos é o mais fácil de compreender, afinal, muitas pessoas já estão familiarizadas com o termo “custo x benefício”. Nesse caso, a matriz ajuda a esclarecer qual o valor de um projeto e a relação disso com o resultado esperado do projeto. Para fazer esse balanço, utilizamos uma matriz dividida por cores e quadrantes, como mostra a figura 1:
 
-![Custo x Beneficio](../../assets/custo_x_beneficio.png)
+
+<figure markdown>
+<figcaption>Figura 1 - Matriz Custo x Benefício</figcaption>
+![Custo x Beneficio](../../assets/custo_x_beneficio.png){ width="350" }
+<figcaption>Fonte: rockcontent.com.br</figcaption>
+</figure>
 
 Com a matriz custo x benefício não é preciso calcular nada, apenas pegar os dados previstos para o seu projeto e encaixá-los nos quadrantes coloridos.
 
