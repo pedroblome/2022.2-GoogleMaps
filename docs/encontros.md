@@ -295,4 +295,4 @@ Reunião feita presencialmente, portanto sem gravação.
 | 03/11/2022 |  1.0   |                      Criação da página                      | Iago Campelo | Alexia Naara |
 | 16/11/2022 |  2.0   | Atualização com segunda reunião e mudanças no padrão de ata | Iago Campelo | Alexia Naara |
 | 19/11/2022 |  3.0   |              Atualização com terceira reunião               | Iago Campelo | Alexia Naara |
-| 29/11/2022 |  4.0   |  Atualização com quarta reunião e mudança no padrão de ata  | Iago Campelo | Alexia Naara |
+| 29/11/2022 |  4.0   |  Atualização com quarta reunião e mudança no padrão de ata  | Iago Campelo | Luciano Melo |

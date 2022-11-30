@@ -95,7 +95,7 @@
 |        29/12/2022        |                                   NFR Framework                                   |              |                 |       02/01/2023       |
 |        30/12/2022        | Planejamento da etapa 05: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        03/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       04/01/2023       |
-  
+
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
 
@@ -123,7 +123,7 @@
 |        12/01/2023        |                         Validação - Comprovação Informal                          |              |                 |       14/01/2023       |
 |        13/01/2023        | Planejamento da etapa 07: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        15/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       16/01/2023       |
-  
+
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
 
@@ -152,7 +152,7 @@
 |        26/01/2023        |     Complemento: técnicas e métodos utilizadas no projeto     |              |                 |       28/01/2023       |
 |        26/01/2023        |           Complemento: tabela dos artefatos criados           |              |                 |       28/01/2023       |
 |        30/01/2023        |                     Vídeo de apresentação                     |    Todos     | Luciano Freitas |       01/02/2023       |
- 
+
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
 ## 4. Histórico de Versão
@@ -162,4 +162,4 @@
 | 09/11/2022 |  1.0   |                    Criação da aba Cronograma                    | Marcus e Luciano |    Iago     |
 | 17/11/2022 |  2.0   |                Alteração no padrão do Cronograma                | Marcus e Luciano |    Iago     |
 | 28/11/2022 |  2.1   |                   Atualiza Fontes nas tabelas                   |      Lucas       |   Luciano   |
-| 29/11/2022 |  2.2   | Padronização: histórico de versão e legendas/fontes das figuras |     Luciano      |   QWERTY    |
+| 29/11/2022 |  2.2   | Padronização: histórico de versão e legendas/fontes das figuras |     Luciano      |    Iago     |

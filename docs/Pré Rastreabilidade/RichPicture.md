@@ -37,7 +37,7 @@
 | 08/11/2022 |  1.0   |                Criação da página de Rich Picture                |   Luíza   |    Marcus     |
 | 10/11/2022 |  2.0   |                Alteração do aplicativo escolhido                |   Luíza   | Marcus e Iago |
 | 18/11/2022 |  3.0   |                  Inclui imagem do rich picture                  |  Alexia   |     Iago      |
-| 29/11/2022 |  3.1   | Padronização das legendas/fontes e texto descritivo das figuras |  Luciano  |    QWERTY     |
+| 29/11/2022 |  3.1   | Padronização das legendas/fontes e texto descritivo das figuras |  Luciano  |     Iago      |
 
 ## 4. Bibliografia
 

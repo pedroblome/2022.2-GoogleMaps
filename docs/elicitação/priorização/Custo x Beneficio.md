@@ -30,6 +30,6 @@ A lógica das cores nesse método, é:
 
 ## 3. Bibliografia
 
-Software Requirements, 3ª edição - Karl Wiegers & Joy Beatty. Acesso em nov. de 2022.
+> Software Requirements, 3ª edição - Karl Wiegers & Joy Beatty. Acesso em nov. de 2022.
 
-[Priorização de Projetos](https://rockcontent.com/br/blog/priorizacao-de-projetos/)
+> CONTENT, Rock. Saiba quais são as 6 principais metodologias usadas para priorização de projetos. Disponível em: https://rockcontent.com/br/blog/priorizacao-de-projetos/ Acesso em nov. de 2022.

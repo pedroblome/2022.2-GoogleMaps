@@ -22,4 +22,7 @@ Depois de somar a nota de cada tópico, use a pontuação total para comparar co
 | 28/11/2022 | 2.0    | Padronização do histórico de versões | Lucas         | Luciano     |
 
 ## 3. Bibliografia
-- [Matriz Básico](https://rockcontent.com/br/blog/matriz-basico/)
+
+> CONTENT, Rock. Saiba quais são as 6 principais metodologias usadas para priorização de projetos. Disponível em: https://rockcontent.com/br/blog/priorizacao-de-projetos/ Acesso em nov. de 2022.
+
+> RIBEIRO, Renato. Matriz BASICO: descubra o que é e como ela pode ajudar o seu negócio. Disponível em: https://rockcontent.com/br/blog/matriz-basico/. Acesso em nov. de 2022.

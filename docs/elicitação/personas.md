@@ -152,7 +152,7 @@
 | 25/11/2022 | 5.0    | Alterações no perfil de usuários                                | Luciano   | Marcus         |
 | 27/11/2022 | 5.1    | Correções no artefato                                           | Luciano   | Marcus         |
 | 28/11/2022 | 5.2    | Padronização do histórico de versões                            | Lucas     | Luciano        |
-| 29/11/2022 | 5.3    | Padronização das legendas/fontes e texto descritivo das figuras | Luciano   | QWERTY         |
+| 29/11/2022 | 5.3    | Padronização das legendas/fontes e texto descritivo das figuras | Luciano   | Iago           |
 
 ## 4. Bibliografia
 > O que é um perfil de usuário?. theastrologypage, 2022. Acesso em: 23 de nov. de 2022. Disponível em: https://pt.theastrologypage.com/user-profile)

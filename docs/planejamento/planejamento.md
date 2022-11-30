@@ -75,8 +75,8 @@
 ## 3. Ferramentas
 
 ### 3.1 Introdução
-    
-&emsp;&emsp; As ferramentas serão softwares que serão utilizados pela equipe com os objetivos de melhorar o desenvolvimento, comunicação e o gerenciamento do projeto. 
+
+&emsp;&emsp; As ferramentas serão softwares que serão utilizados pela equipe com os objetivos de melhorar o desenvolvimento, comunicação e o gerenciamento do projeto.
 
 ### 3.2 Ferramentas utilizadas
 
@@ -95,6 +95,7 @@
 | ![logo Teams](../assets/logos/microsoft-teams-logo.png){width="128" height="128"} |  Microsoft Teams   | Utilizado para as apresentações e reuniões do time.                                                         |
 |       ![logo VSCode](../assets/logos/VSCode.png){width="128" height="128"}        | Visual Code Studio | Utilizado para elaboração dos documentos.                                                                   |
 |      ![logo Figma](../assets/logos/figma-logo.png){width="128" height="128"}      |       Figma        | Utilizado para elaborar os protótipos de média e alta fidelidade                                            |
+|      ![logo thispersondoesnotexist](../assets/logos/fake_ai_faces.png){width="128" height="128"}      |       This Person Does Not Exist        | Inteligência artificial utilizada para gerar imagens de pessoas aleatórias para a criação de personas  |
 
 <figcaption align="center">Fonte: Elaboração própria</figcaption>
 
@@ -106,10 +107,12 @@
 | 15/11/2022 | 2.0 | Criação da página de ferramentas | Lucas | Marcus|
 | 23/11/2022 | 3.0 | Atualização da página de ferramentas | Lucas | Marcus|
 | 28/11/2022 | 3.1 | Reparo das imagens que estavam bugadas no gitpages | Luciano | Lucas |
-| 29/11/2022 | 3.2 | Padronização das legendas/fontes e texto descritivo da tabela | Luciano | QWERTY |
+| 29/11/2022 | 3.2 | Padronização das legendas/fontes e texto descritivo da tabela | Luciano | Iago |
 
 ## 6. Bibliografia
 
-- [Scrum](https://www.atlassian.com/br/agile/scrum)
-- [eXtreme Programming](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498#Programming)
-- [KanBan](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+> DRUMOND, Claire. O que é o scrum?. Disponível em: https://www.atlassian.com/br/agile/scrum. Acesso em nov. de 2022.
+
+> MANOEL. Extreme Programming – Conceitos e Práticas. Disponível em: https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498#Programming. Acesso em nov. de 2022.
+
+> Kanbanize. What Is Kanban? Explained for Beginners. Disponível em: https://kanbanize.com/kanban-resources/getting-started/what-is-kanban. Acesso em nov. de 2022.

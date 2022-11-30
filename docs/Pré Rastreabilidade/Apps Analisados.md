@@ -70,16 +70,8 @@
 | :--------: | :----: | :------------------------------------------: | :-----------: | :-----------: |
 | 08/11/2022 |  1.0   |              Criação da página               |     Luíza     |    Marcus     |
 | 10/11/2022 |  2.0   |   Correções gramaticais e de concordância    | Luíza e Lucas | Marcus e Iago |
-| 29/11/2022 |  2.1   | Padronização das legendas/fontes das figuras |    Luciano    |    QWERTY     |
+| 29/11/2022 |  2.1   | Padronização das legendas/fontes das figuras |    Luciano    |     Iago      |
 
 ## 8. Referências Bibliográficas
 
-[Sinesp](https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=US&pli=1)
-
-[Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt)
-
-[FGTS](https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&gl=US)
-
-[Receita Federal](https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=pt_BR&gl=US)
-
-[Carteira de Trabalho Digital](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital)
+> MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. York: na, 1998. Disponível em: https://sswm.info/sites/default/files/reference_attachments/MONK%20and%20HOWARD%201998%20Methods%20and%20Tools%20the%20Rich%20Picture%20a%20Tool%20for%20Reasoning%20About%20Work%20Context.pdf. Acesso em nov. de 2022.
