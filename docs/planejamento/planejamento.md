@@ -86,16 +86,16 @@
 <p>Tabela 1: Ferramentas utilizadas no projeto</p>
 </div>
 
-|                                       Logo                                        |     Ferramenta     | Finalidade                                                                                                  |
-| :-------------------------------------------------------------------------------: | :----------------: | ----------------------------------------------------------------------------------------------------------- |
-|     ![logo github](../assets/logos/github-logo.png){width="128" height="128"}     |       Github       | Será utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos.                |
-|   ![logo telegram](../assets/logos/telegram-logo.png){width="128" height="128"}   |      Telegram      | Utilizado para comunicação entre o grupo e com o monitor                                                    |
-|   ![logo lucidchart](../assets/logos/lucid-logo.png){width="200" height="128"}    |     Lucidchart     | Será utilizado para a criação dos diversos diagramas e esquemas necessários para a modelagem dos Requisitos |
-|      ![logo youtube](../assets/logos/youtube.png){width="135" height="135"}       |      Youtube       | Utilizado para armazenar as gravações das apresentações dos pontos de controle                              |
-| ![logo Teams](../assets/logos/microsoft-teams-logo.png){width="128" height="128"} |  Microsoft Teams   | Utilizado para as apresentações e reuniões do time.                                                         |
-|       ![logo VSCode](../assets/logos/VSCode.png){width="128" height="128"}        | Visual Code Studio | Utilizado para elaboração dos documentos.                                                                   |
-|      ![logo Figma](../assets/logos/figma-logo.png){width="128" height="128"}      |       Figma        | Utilizado para elaborar os protótipos de média e alta fidelidade                                            |
-|      ![logo thispersondoesnotexist](../assets/logos/fake_ai_faces.png){width="128" height="128"}      |       This Person Does Not Exist        | Inteligência artificial utilizada para gerar imagens de pessoas aleatórias para a criação de personas  |
+|                                            Logo                                             |         Ferramenta         | Finalidade                                                                                                  |
+| :-----------------------------------------------------------------------------------------: | :------------------------: | ----------------------------------------------------------------------------------------------------------- |
+|          ![logo github](../assets/logos/github-logo.png){width="128" height="128"}          |           Github           | Será utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos.                |
+|        ![logo telegram](../assets/logos/telegram-logo.png){width="128" height="128"}        |          Telegram          | Utilizado para comunicação entre o grupo e com o monitor                                                    |
+|        ![logo lucidchart](../assets/logos/lucid-logo.png){width="200" height="128"}         |         Lucidchart         | Será utilizado para a criação dos diversos diagramas e esquemas necessários para a modelagem dos Requisitos |
+|           ![logo youtube](../assets/logos/youtube.png){width="135" height="135"}            |          Youtube           | Utilizado para armazenar as gravações das apresentações dos pontos de controle                              |
+|      ![logo Teams](../assets/logos/microsoft-teams-logo.png){width="128" height="128"}      |      Microsoft Teams       | Utilizado para as apresentações e reuniões do time.                                                         |
+|            ![logo VSCode](../assets/logos/VSCode.png){width="128" height="128"}             |     Visual Code Studio     | Utilizado para elaboração dos documentos.                                                                   |
+|           ![logo Figma](../assets/logos/figma-logo.png){width="128" height="128"}           |           Figma            | Utilizado para elaborar os protótipos de média e alta fidelidade                                            |
+| ![logo thispersondoesnotexist](../assets/logos/fake_ai_faces.png){width="128" height="128"} | This Person Does Not Exist | Inteligência artificial utilizada para gerar imagens de pessoas aleatórias para a criação de personas       |
 
 <figcaption align="center">Fonte: Elaboração própria</figcaption>
 

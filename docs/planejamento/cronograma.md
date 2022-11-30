@@ -30,20 +30,20 @@
 
 <figcaption align="center">Tabela 2: Cronograma da etapa 1 do projeto.</figcaption>
 
-| Data limite para entrega |                  Tarefa/Entrega                   |                Responsáveis                |            Revisores            | Data limite de revisão |
-| :----------------------: | :-----------------------------------------------: | :----------------------------------------: | :-----------------------------: | :--------------------: |
-|        27/10/2022        |                Formação da equipe                 |                   Todos                    |              Todos              |          ---           |
-|        03/11/2022        |  Seleção das ferramentas e organização da equipe  |                   Todos                    |              Todos              |          ---           |
-|        03/11/2022        | Criação e padronização do Github Pages do projeto |       Marcus Martins e Iago Campelo        |              Todos              |          ---           |
-|        03/11/2022        |        Criação do Github Pages do projeto         |       Marcus Martins e Iago Campelo        |              Todos              |          ---           |
-|        17/11/2022        |             Escolha do app do projeto             |                   Todos                    |              Todos              |          ---           |
-|        17/11/2022        |                 Readme do projeto                 |               Luiza Esteves                |          Alexia Naara           |       19/11/2022       |
-|        17/11/2022        |            Página inicial do gitpages             | Alexia Naara, Iago Campelo e Lucas Soares  |         Marcus Martins          |       19/11/2022       |
-|        17/11/2022        |       Cronograma de planejamento do projeto       |      Luciano Freitas e Marcus Martins      |          Iago Campelo           |       19/11/2022       |
-|        17/11/2022        |             Artefato de metodologias              |        Iago Campelo e Lucas Soares         | Luciano Freitas e Luiza Esteves |       19/11/2022       |
-|        17/11/2022        |              Artefato de ferramentas              |                Lucas Soares                |         Marcus Martins          |       19/11/2022       |
-|        17/11/2022        |                Rich Picture do app                | Alexia Naara, Lucas Soares e Luiza Esteves |  Iago Campelo e Marcus Martins  |       19/11/2022       |
-|        19/11/2022        |               Vídeo de apresentação               |                   Todos                    |         Luciano Freitas         |       21/11/2022       |
+| Data limite para entrega |                  Tarefa/Entrega                   |     Responsáveis      |    Revisores    | Data limite de revisão |
+| :----------------------: | :-----------------------------------------------: | :-------------------: | :-------------: | :--------------------: |
+|        27/10/2022        |                Formação da equipe                 |         Todos         |      Todos      |          ---           |
+|        03/11/2022        |  Seleção das ferramentas e organização da equipe  |         Todos         |      Todos      |          ---           |
+|        03/11/2022        | Criação e padronização do Github Pages do projeto |     Marcus e Iago     |      Todos      |          ---           |
+|        03/11/2022        |        Criação do Github Pages do projeto         |     Marcus e Iago     |      Todos      |          ---           |
+|        17/11/2022        |             Escolha do app do projeto             |         Todos         |      Todos      |          ---           |
+|        17/11/2022        |                 Readme do projeto                 |         Luiza         |     Alexia      |       19/11/2022       |
+|        17/11/2022        |            Página inicial do gitpages             | Alexia, Iago e Lucas  |     Marcus      |       19/11/2022       |
+|        17/11/2022        |       Cronograma de planejamento do projeto       |   Luciano e Marcus    |      Iago       |       19/11/2022       |
+|        17/11/2022        |             Artefato de metodologias              |     Iago e Lucas      | Luciano e Luiza |       19/11/2022       |
+|        17/11/2022        |              Artefato de ferramentas              |         Lucas         |     Marcus      |       19/11/2022       |
+|        17/11/2022        |                Rich Picture do app                | Alexia, Lucas e Luiza |  Iago e Marcus  |       19/11/2022       |
+|        19/11/2022        |               Vídeo de apresentação               |         Todos         |     Luciano     |       21/11/2022       |
 
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
@@ -52,32 +52,32 @@
 
 <figcaption align="center">Tabela 3: Cronograma da etapa 2 do projeto.</figcaption>
 
-| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis  |    Revisores    | Data limite de revisão |
-| :----------------------: | :-------------------------------------------------------------------------------: | :----------:  | :-------------: | :--------------------: |
-|        18/11/2022        | Planejamento da etapa 02: Separação e distribuição das atividades para os membros |     Todos     |      Todos      |          ---           |
-|        22/11/2022        |                        Especificação do Perfil do usuário                         |Lucas e Luciano|      Luiza      |       24/11/2022       |
-|        22/11/2022        |   Cronograma de realização com o cliente/persona para Elicitação e Priorização    |Luíza e Alexia |      Iago       |       28/11/2022       |
-|        24/11/2022        |                              Técnica de Elicitação 1                              |    Alexia     |      Lucas      |       28/11/2022       |
-|        24/11/2022        |                              Técnica de Elicitação 2                              |    Alexia     |      Lucas      |       28/11/2022       |
-|        24/11/2022        |                              Técnica de Elicitação 3                              |     Luíza     |      Lucas      |       28/11/2022       |
-|        25/11/2022        |                                  Personas do app                                  |     Lucas     |      Luíza      |       28/11/2022       |
-|        27/11/2022        |                             Técnica de Priorização 1                              |     Iago      |      Lucas      |       29/11/2022       |
-|        27/11/2022        |                             Técnica de Priorização 2                              |     Marcus    |      Lucas      |       29/11/2022       |
-|        29/11/2022        |                               Vídeo de apresentação                               |    Todos      | Luciano Freitas |       30/11/2022       |
+| Data limite para entrega |                                  Tarefa/Entrega                                   |  Responsáveis   | Revisores | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :-------------: | :-------: | :--------------------: |
+|        18/11/2022        | Planejamento da etapa 02: Separação e distribuição das atividades para os membros |      Todos      |   Todos   |          ---           |
+|        22/11/2022        |                        Especificação do Perfil do usuário                         | Lucas e Luciano |   Luiza   |       24/11/2022       |
+|        22/11/2022        |   Cronograma de realização com o cliente/persona para Elicitação e Priorização    | Luíza e Alexia  |   Iago    |       28/11/2022       |
+|        24/11/2022        |                              Técnica de Elicitação 1                              |     Alexia      |   Lucas   |       28/11/2022       |
+|        24/11/2022        |                              Técnica de Elicitação 2                              |     Alexia      |   Lucas   |       28/11/2022       |
+|        24/11/2022        |                              Técnica de Elicitação 3                              |      Luíza      |   Lucas   |       28/11/2022       |
+|        25/11/2022        |                                  Personas do app                                  |      Lucas      |   Luíza   |       28/11/2022       |
+|        27/11/2022        |                             Técnica de Priorização 1                              |      Iago       |   Lucas   |       29/11/2022       |
+|        27/11/2022        |                             Técnica de Priorização 2                              |     Marcus      |   Lucas   |       29/11/2022       |
+|        29/11/2022        |                               Vídeo de apresentação                               |      Todos      |  Luciano  |       30/11/2022       |
 
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
 
 ### 3.1 Etapa 3
 <figcaption align="center">Tabela 4: Cronograma da etapa 3 do projeto.</figcaption>
-| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis   |    Revisores    | Data limite de revisão |
-| :----------------------: | :-------------------------------------------------------------------------------: | :----------:   | :-------------: | :--------------------: |
-|        01/12/2022        | Planejamento da etapa 03: Separação e distribuição das atividades para os membros |     Todos      |      Todos      |          ---           |
-|        07/12/2022        |                              Cenários para o projeto                              |Alexia e Luciano|       Iago      |       09/12/2022       |
-|        07/12/2022        |                             Especificação dos Léxicos                             |     Iago       |      Luíza      |       09/12/2022       |
-|        07/12/2022        |                      Casos de Uso (Documentação e Diagrama)                       | Marcus e Lucas |      Alexia     |       09/12/2022       |
-|        07/12/2022        |                             Especificação Suplementar                             |     Luíza      |     Lucas       |       09/12/2022       |
-|        12/12/2022        |                               Vídeo de apresentação                               |     Todos      | Luciano Freitas |       12/12/2022       |
+| Data limite para entrega |                                  Tarefa/Entrega                                   |   Responsáveis   | Revisores | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :--------------: | :-------: | :--------------------: |
+|        01/12/2022        | Planejamento da etapa 03: Separação e distribuição das atividades para os membros |      Todos       |   Todos   |          ---           |
+|        07/12/2022        |                              Cenários para o projeto                              | Alexia e Luciano |   Iago    |       09/12/2022       |
+|        07/12/2022        |                             Especificação dos Léxicos                             |       Iago       |   Luíza   |       09/12/2022       |
+|        07/12/2022        |                      Casos de Uso (Documentação e Diagrama)                       |  Marcus e Lucas  |  Alexia   |       09/12/2022       |
+|        07/12/2022        |                             Especificação Suplementar                             |      Luíza       |   Lucas   |       09/12/2022       |
+|        12/12/2022        |                               Vídeo de apresentação                               |      Todos       |  Luciano  |       12/12/2022       |
 
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
@@ -86,15 +86,15 @@
 
 <figcaption align="center">Tabela 5: Cronograma da etapa 4 do projeto.</figcaption>
 
-| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis  |    Revisores    | Data limite de revisão |
-| :----------------------: | :-------------------------------------------------------------------------------: | :----------:  | :-------------: | :--------------------: |
-|        15/12/2022        | Planejamento da etapa 04: Separação e distribuição das atividades para os membros |    Todos      |      Todos      |          ---           |
-|        25/12/2022        |                         Criação das Histórias de Usuário                          | Alexia e Iago |     Lucas       |       27/12/2022       |
-|        29/12/2022        |                  Critérios de Aceitação das Histórias de Usuário                  | Iago e Marcus |     Luíza       |       02/01/2023       |
-|        29/12/2022        |                               Documento do Backlog                                | Lucas e Luíza |      Iago       |       02/01/2023       |
-|        29/12/2022        |                                   NFR Framework                                   |    Luciano    |     Alexia      |       02/01/2023       |
-|        30/12/2022        | Planejamento da etapa 05: Separação e distribuição das atividades para os membros |     Todos     |     Todos       |          ---           |
-|        03/01/2023        |                               Vídeo de apresentação                               |     Todos     | Luciano Freitas |       04/01/2023       |
+| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis  | Revisores | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :-----------: | :-------: | :--------------------: |
+|        15/12/2022        | Planejamento da etapa 04: Separação e distribuição das atividades para os membros |     Todos     |   Todos   |          ---           |
+|        25/12/2022        |                         Criação das Histórias de Usuário                          | Alexia e Iago |   Lucas   |       27/12/2022       |
+|        29/12/2022        |                  Critérios de Aceitação das Histórias de Usuário                  | Iago e Marcus |   Luíza   |       02/01/2023       |
+|        29/12/2022        |                               Documento do Backlog                                | Lucas e Luíza |   Iago    |       02/01/2023       |
+|        29/12/2022        |                                   NFR Framework                                   |    Luciano    |  Alexia   |       02/01/2023       |
+|        30/12/2022        | Planejamento da etapa 05: Separação e distribuição das atividades para os membros |     Todos     |   Todos   |          ---           |
+|        03/01/2023        |                               Vídeo de apresentação                               |     Todos     |  Luciano  |       04/01/2023       |
 
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
@@ -103,11 +103,11 @@
 
 <figcaption align="center">Tabela 6: Cronograma da etapa 5 do projeto.</figcaption>
 
-| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
-| :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
-|        05/01/2023        |                       Verificação dos documentos do projeto                       | Lucas e Luíza| Iago e Luciano  |       07/01/2023       |
-|        06/01/2023        | Planejamento da etapa 06: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
-|        08/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       09/01/2023       |
+| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis  |   Revisores    | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :-----------: | :------------: | :--------------------: |
+|        05/01/2023        |                       Verificação dos documentos do projeto                       | Lucas e Luíza | Iago e Luciano |       07/01/2023       |
+|        06/01/2023        | Planejamento da etapa 06: Separação e distribuição das atividades para os membros |     Todos     |     Todos      |          ---           |
+|        08/01/2023        |                               Vídeo de apresentação                               |     Todos     |    Luciano     |       09/01/2023       |
 
 
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
@@ -117,12 +117,12 @@
 
 <figcaption align="center">Tabela 7: Cronograma da etapa 6 do projeto.</figcaption>
 
-| Data limite para entrega |                                  Tarefa/Entrega                                   |  Responsáveis  |    Revisores    | Data limite de revisão |
-| :----------------------: | :-------------------------------------------------------------------------------: |  :----------:  | :-------------: | :--------------------: |
-|        12/01/2023        |                             Validação - Prototipação                              |  Iago e Luíza  |     Alexia      |       14/01/2023       |
-|        12/01/2023        |                         Validação - Comprovação Informal                          |Luciano e Marcus|      Lucas      |       14/01/2023       |
-|        13/01/2023        | Planejamento da etapa 07: Separação e distribuição das atividades para os membros |     Todos      |      Todos      |          ---           |
-|        15/01/2023        |                               Vídeo de apresentação                               |     Todos      | Luciano Freitas |       16/01/2023       |
+| Data limite para entrega |                                  Tarefa/Entrega                                   |   Responsáveis   | Revisores | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :--------------: | :-------: | :--------------------: |
+|        12/01/2023        |                             Validação - Prototipação                              |   Iago e Luíza   |  Alexia   |       14/01/2023       |
+|        12/01/2023        |                         Validação - Comprovação Informal                          | Luciano e Marcus |   Lucas   |       14/01/2023       |
+|        13/01/2023        | Planejamento da etapa 07: Separação e distribuição das atividades para os membros |      Todos       |   Todos   |          ---           |
+|        15/01/2023        |                               Vídeo de apresentação                               |      Todos       |  Luciano  |       16/01/2023       |
 
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
@@ -131,12 +131,12 @@
 
 <figcaption align="center">Tabela 8: Cronograma da etapa 7 do projeto.</figcaption>
 
-| Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
-| :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
-|        19/01/2023        |                              Documento backward-form                              |Lucas e Alexia|      Iago       |       21/01/2023       |
-|        19/01/2023        |                              Documento forward-form                               |Marcus e Luíza|     Luciano     |       21/01/2023       |
-|        19/01/2023        | Planejamento da etapa 08: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
-|        22/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       23/01/2023       |
+| Data limite para entrega |                                  Tarefa/Entrega                                   |  Responsáveis  | Revisores | Data limite de revisão |
+| :----------------------: | :-------------------------------------------------------------------------------: | :------------: | :-------: | :--------------------: |
+|        19/01/2023        |                              Documento backward-form                              | Lucas e Alexia |   Iago    |       21/01/2023       |
+|        19/01/2023        |                              Documento forward-form                               | Marcus e Luíza |  Luciano  |       21/01/2023       |
+|        19/01/2023        | Planejamento da etapa 08: Separação e distribuição das atividades para os membros |     Todos      |   Todos   |          ---           |
+|        22/01/2023        |                               Vídeo de apresentação                               |     Todos      |  Luciano  |       23/01/2023       |
 
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 
@@ -145,13 +145,13 @@
 
 <figcaption align="center">Tabela 9: Cronograma da etapa 8 do projeto.</figcaption>
 
-| Data limite para entrega |                        Tarefa/Entrega                         | Responsáveis  |    Revisores    | Data limite de revisão |
-| :----------------------: | :-----------------------------------------------------------: | :----------:  | :-------------: | :--------------------: |
-|        26/01/2023        |                  Correções do projeto final                   |Iago e Luciano |     Marcus      |       28/01/2023       |
-|        26/01/2023        | Complemento das ferramentas: onde foram utilizadas no projeto |Alexia e Marcus|      Iago       |       28/01/2023       |
-|        26/01/2023        |     Complemento: técnicas e métodos utilizadas no projeto     |    Luíza      |     Luciano     |       28/01/2023       |
-|        26/01/2023        |           Complemento: tabela dos artefatos criados           |    Lucas      |     Alexia      |       28/01/2023       |
-|        30/01/2023        |                     Vídeo de apresentação                     |    Todos      | Luciano Freitas |       01/02/2023       |
+| Data limite para entrega |                        Tarefa/Entrega                         |  Responsáveis   | Revisores | Data limite de revisão |
+| :----------------------: | :-----------------------------------------------------------: | :-------------: | :-------: | :--------------------: |
+|        26/01/2023        |                  Correções do projeto final                   | Iago e Luciano  |  Marcus   |       28/01/2023       |
+|        26/01/2023        | Complemento das ferramentas: onde foram utilizadas no projeto | Alexia e Marcus |   Iago    |       28/01/2023       |
+|        26/01/2023        |     Complemento: técnicas e métodos utilizadas no projeto     |      Luíza      |  Luciano  |       28/01/2023       |
+|        26/01/2023        |           Complemento: tabela dos artefatos criados           |      Lucas      |  Alexia   |       28/01/2023       |
+|        30/01/2023        |                     Vídeo de apresentação                     |      Todos      |  Luciano  |       01/02/2023       |
 
 <figcaption align="center">Fonte: Elaboração própia</figcaption>
 

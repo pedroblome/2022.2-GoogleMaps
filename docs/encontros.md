@@ -290,9 +290,9 @@ Reunião feita presencialmente, portanto sem gravação.
 
 ## 3. Histórico de Versões
 
-|    Data    | Versão |                        Modificações                         |  Autor(es)   | Revisor(es)  |
-| :--------: | :----: | :---------------------------------------------------------: | :----------: | :----------: |
-| 03/11/2022 |  1.0   |                      Criação da página                      | Iago Campelo | Alexia Naara |
-| 16/11/2022 |  2.0   | Atualização com segunda reunião e mudanças no padrão de ata | Iago Campelo | Alexia Naara |
-| 19/11/2022 |  3.0   |              Atualização com terceira reunião               | Iago Campelo | Alexia Naara |
-| 29/11/2022 |  4.0   |  Atualização com quarta reunião e mudança no padrão de ata  | Iago Campelo | Luciano Melo |
+|    Data    | Versão |                        Modificações                         | Autor(es) | Revisor(es) |
+| :--------: | :----: | :---------------------------------------------------------: | :-------: | :---------: |
+| 03/11/2022 |  1.0   |                      Criação da página                      |   Iago    |   Alexia    |
+| 16/11/2022 |  2.0   | Atualização com segunda reunião e mudanças no padrão de ata |   Iago    |   Alexia    |
+| 19/11/2022 |  3.0   |              Atualização com terceira reunião               |   Iago    |   Alexia    |
+| 29/11/2022 |  4.0   |  Atualização com quarta reunião e mudança no padrão de ata  |   Iago    |   Luciano   |
