@@ -11,10 +11,10 @@
 
 ## 2. Histórico de Versão
 
-| Data       | Versão | Modificações                         | Autor(es)                     | Revisor(es)        |
-| ---------- | ------ | ------------------------------------ | ----------------------------- | ------------------ |
-| 27/11/2022 | 1.0    | Adiciona técnicas de priorização     | Iago Campelo e Marcus Martins | Lucas Felipe       |
-| 28/11/2022 | 2.0    | Padronização do histórico de versões | Lucas Felipe                  | Luciano de Freitas |
+| Data       | Versão | Modificações                         | Autor(es)     | Revisor(es) |
+| ---------- | ------ | ------------------------------------ | ------------- | ----------- |
+| 27/11/2022 | 1.0    | Adiciona técnicas de priorização     | Iago e Marcus | Lucas       |
+| 28/11/2022 | 2.0    | Padronização do histórico de versões | Lucas         | Luciano     |
 
 ## 3. Bibliografia
 

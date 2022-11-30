@@ -26,15 +26,14 @@
 
 &emsp;&emsp; Dentro das principais características dos usuários, podemos os separar em alguns grupos mais gerais de usuários de acordo com alguns atributos similares entre eles, como mostra a tabela 01. Os usuários do perfil A tendem a utilizar o app para visualizar distâncias entre localizações e trajetos de transporte público. Enquanto isso, os do perfil B usam o Google Maps para traçar rotas entre locais e ver estabelecimentos na região.
 
+<figcaption align="center">Tabela 1: Grupos de Usuário</figcaption>
 |             Perfil              |                                  A                                   |                            B                            |
 | :-----------------------------: | :------------------------------------------------------------------: | :-----------------------------------------------------: |
 |          Faixa Etária           |                           Jovem [12 a 18)                            |                    Adulto [18 a 50)                     |
 | Frequência de utilização do app |                    Média (2 a 3 vezes por semana)                    |             Constante (várias vezes ao dia)             |
 |      Principais objetivos       | Ver distância entre locais; Ver informações sobre um estabelecimento | Traçar rotas para uma localização; ver estabelecimentos |
-<figure markdown>
-<figcaption align="center">Tabela 1: Grupos de Usuário</figcaption>
 <figcaption align="center">Fonte: Elaboração própria</figcaption>
-</figure>
+
 
 ## 2. Personas
 
@@ -47,24 +46,26 @@
 &emsp;&emsp;Foram criadas personas que retratariam os usuarios mais comuns do Google Maps. A partir desses requisitos e da pesquisa de grupos de usuários, as personas básicas que mais utilizariam esses requisitos foram buscadas. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Apesar de se tratar de imagens de pessoas não reais, é de suma importância a humanização do projeto e melhor guiar toda a equipe do projeto. Todas as imagens utilizadas nesse artefato foram retiradas do site This Person Doest Not Exist, um site que utiliza de inteligencia atificial para criar imagens sem copyright.
 
 ### 2.3 Personas
+&emsp;&emsp; As personas do projeto estão apresentadas nas tabelas 2 a 5, como mostrado a seguir:
+
 
 ###  Manuel Gomes
 <div style="text-align: center">
 <p>Tabela 2: Persona 1</p>
 </div>
 
-|                     |                                                                                                                                                                                          |
-| :------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**            | Manuel Gomes                                                                                                                                                                             |
-| **Foto**            | <figure markdown> ![Foto de perfil de Manuel](../assets/personas/persona1.jpg){ width="200px" } <figcaption>Figura 1, Manuel Gomes</figcaption></figure>                                 |
-| **Descrição**       | Manuel Gomes, idade de 54 anos, morador de Ribeirão Preto-SP.<br> Motorista de aplicativo.<br>Homem. <br>Divorciado, sem filhos. <br>Mora no centro da cidade, Ribeirão Preto.           |
-| **Status**          | Persona primária.                                                                                                                                                                        |
-| **Objetivos**       | Manuel nunca se deu muito bem com as novas tecnologias e, apesar de ser um grande motorista, ainda passa por grandes dificuldades para encontrar os melhores trajetos para suas viagens. |
-| **Habilidades**     | Manuel Gomes, como motorista, sempre se interessou em buscar os melhores caminhos para melhor aprender suas atividades.                                                                  |
-| **Tarefas**         | Todos os dias, Manuel entra no Google Maps e utiliza o aplicativo em algumas de suas viagens para conhecer um pouco melhor seus trajetos e o tempo gasto nos mesmos.                     |
-| **Relacionamentos** | Manuel se relaciona principalmente com seus clientes e amigos.                                                                                                                           |
-| **Requisitos**      | Para usuarios com pouca familiaridade com tecnologias, Manuel julga ser muito importante o app Google Maps ser intuitivo e de facil uso.                                                 |
-| **Expectivativas**  | Manuel espera enteder todos os funcionamentos do Google Maps e ser um usuario pleno até o final do ano.                                                                                  |
+|                     |                                                                                                                                                                                                                  |
+| :------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**            | Manuel Gomes                                                                                                                                                                                                     |
+| **Foto**            | <figure markdown> <figcaption>Figura 1, Manuel Gomes</figcaption> ![Foto de perfil de Manuel](../assets/personas/persona1.jpg){ width="200px" } <figcaption>Fonte: ThisPersonDoesNotExist</figcaption> </figure> |
+| **Descrição**       | Manuel Gomes, idade de 54 anos, morador de Ribeirão Preto-SP.<br> Motorista de aplicativo.<br>Homem. <br>Divorciado, sem filhos. <br>Mora no centro da cidade, Ribeirão Preto.                                   |
+| **Status**          | Persona primária.                                                                                                                                                                                                |
+| **Objetivos**       | Manuel nunca se deu muito bem com as novas tecnologias e, apesar de ser um grande motorista, ainda passa por grandes dificuldades para encontrar os melhores trajetos para suas viagens.                         |
+| **Habilidades**     | Manuel Gomes, como motorista, sempre se interessou em buscar os melhores caminhos para melhor aprender suas atividades.                                                                                          |
+| **Tarefas**         | Todos os dias, Manuel entra no Google Maps e utiliza o aplicativo em algumas de suas viagens para conhecer um pouco melhor seus trajetos e o tempo gasto nos mesmos.                                             |
+| **Relacionamentos** | Manuel se relaciona principalmente com seus clientes e amigos.                                                                                                                                                   |
+| **Requisitos**      | Para usuarios com pouca familiaridade com tecnologias, Manuel julga ser muito importante o app Google Maps ser intuitivo e de facil uso.                                                                         |
+| **Expectivativas**  | Manuel espera enteder todos os funcionamentos do Google Maps e ser um usuario pleno até o final do ano.                                                                                                          |
 
 <div style="text-align: center">
 <p>Fonte: Lucas Felipe</p>
@@ -80,7 +81,7 @@
 |                     |                                                                                                                                                                                                                      |
 | :------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**            | Juliana Almeida                                                                                                                                                                                                      |
-| **Foto**            | <figure markdown> ![Foto de perfil de Juliana](../assets/personas/persona2.jpg){ width="200px" } <figcaption>Figura 2, Juliana Almeida</figcaption></figure>                                                         |
+| **Foto**            | <figure markdown>  <figcaption>Figura 2, Juliana Almeida</figcaption> ![Foto de perfil de Juliana](../assets/personas/persona2.jpg){ width="200px" } <figcaption>Fonte: ThisPersonDoesNotExist</figcaption></figure> |
 | **Descrição**       | Juliana Almeida, idade de 38 anos, moradora de Brasília-DF.<br> Enfermeira.<br>Mulher. <br>Solteira, devido longos períodos em trabalho no hospital não possui uma vida social muito ativa. <br>Moradora da Asa Sul. |
 | **Status**          | Antipersona.                                                                                                                                                                                                         |
 | **Objetivos**       | Juliana sempre foi uma pessoa muita ativa e focada em seu serviço. Devido à sua devoção ao trabalho, cumpre sempre a mesma rota do hospital para casa, buscando ao máximo não sair de sua rotina.                    |
@@ -103,7 +104,7 @@
 |                     |                                                                                                                                                                                                                                                                                                        |
 | :------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Nome**            | Carolina Silveira                                                                                                                                                                                                                                                                                      |
-| **Foto**            | <figure markdown> ![Foto de perfil de Carolina](../assets/personas/persona3.jpg){ width="200px" } <figcaption>Figura 3, Carolina Silveira</figcaption></figure>                                                                                                                                        |
+| **Foto**            | <figure markdown> <figcaption>Figura 3, Carolina Silveira</figcaption> ![Foto de perfil de Carolina](../assets/personas/persona3.jpg){ width="200px" } <figcaption>Fonte: ThisPersonDoesNotExist</figcaption></figure>                                                                                 |
 | **Descrição**       | Carolina SIlveira, idade de 46 anos, moradora de Goiânia-GO.<br> Servidora Pública.<br>Mulher. <br>Casada,sem filhos. <br>Mora na zona sul da cidade, afastada de seu emprego.                                                                                                                         |
 | **Status**          | Persona secundária.                                                                                                                                                                                                                                                                                    |
 | **Objetivos**       | Carolina Silveira, por morar muito afastada de seu emprego e com muito pouco senso de direção, busca formas diferentes de chegar a tempo em seu trabalho e na sua rota para casa. Explorando variados caminhos e meios de locomoção, Carolina busca conforto de vida e se preocupar com outras coisas. |
@@ -126,7 +127,7 @@
 |                     |                                                                                                                                                                                                                                                                                           |
 | :------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**            | Ricardo Mendes                                                                                                                                                                                                                                                                            |
-| **Foto**            | <figure markdown> ![Foto de perfil de Ricardo](../assets/personas/persona4.jpeg){ width="200px" } <figcaption>Figura 4, Ricardo Mendes</figcaption></figure>                                                                                                                              |
+| **Foto**            | <figure markdown> <figcaption>Figura 4, Ricardo Mendes</figcaption> ![Foto de perfil de Ricardo](../assets/personas/persona4.jpeg){ width="200px" } <figcaption>Fonte: ThisPersonDoesNotExist</figcaption></figure>                                                                       |
 | **Descrição**       | Ricardo Mendes, idade de 50 anos, morador de Curitiba-PR.<br> Desenvolvedor de Software.<br>Homem. <br>Casado, sem filhos. <br>Mora na zona central da cidade.                                                                                                                            |
 | **Status**          | Persona secundária.                                                                                                                                                                                                                                                                       |
 | **Objetivos**       | Ricardo Mendes, mudou-se recentemente para a cidade de Curitiba(PR). Gosta de utilizar o aplicativo para melhor se situar nas possibilidades de rota de sua nova cidade, nas avaliações dos locais que deseja conhecer e na maior administração do seu tempo de deslocamento pela cidade. |
@@ -142,15 +143,16 @@
 
 ## 3. Histórico de versão
 
-| Data       | Versão | Modificações                         | Autor(es)       | Revisor(es)                 |
-| ---------- | ------ | ------------------------------------ | --------------- | --------------------------- |
-| 28/10/2022 | 1.0    | Criação da aba Equipe                | Marcus Martins  | Alexia Naara e Iago Campelo |
-| 21/11/2022 | 2.0    | Criação do perfil de usuários        | Lucas Felipe    | Marcus Martins              |
-| 23/11/2022 | 3.0    | Criação das personas                 | Lucas Felipe    | Marcus Martins              |
-| 24/11/2022 | 4.0    | Finalização das Personas             | Lucas Felipe    | Marcus Martins              |
-| 25/11/2022 | 5.0    | Alterações no perfil de usuários     | Luciano Freitas | Marcus Martins              |
-| 27/11/2022 | 6.0    | Correções no artefato                | Luciano Freitas | Marcus Martins              |
-| 28/11/2022 | 7.0    | Padronização do histórico de versões | Lucas Felipe    | Luciano de Freitas          |
+| Data       | Versão | Modificações                                                    | Autor(es) | Revisor(es)    |
+| ---------- | ------ | --------------------------------------------------------------- | --------- | -------------- |
+| 28/10/2022 | 1.0    | Criação da aba Equipe                                           | Marcus    | Alexia  e Iago |
+| 21/11/2022 | 2.0    | Criação do perfil de usuários                                   | Lucas     | Marcus         |
+| 23/11/2022 | 3.0    | Criação das personas                                            | Lucas     | Marcus         |
+| 24/11/2022 | 4.0    | Finalização das Personas                                        | Lucas     | Marcus         |
+| 25/11/2022 | 5.0    | Alterações no perfil de usuários                                | Luciano   | Marcus         |
+| 27/11/2022 | 5.1    | Correções no artefato                                           | Luciano   | Marcus         |
+| 28/11/2022 | 5.2    | Padronização do histórico de versões                            | Lucas     | Luciano        |
+| 29/11/2022 | 5.3    | Padronização das legendas/fontes e texto descritivo das figuras | Luciano   | QWERTY         |
 
 ## 4. Bibliografia
 > O que é um perfil de usuário?. theastrologypage, 2022. Acesso em: 23 de nov. de 2022. Disponível em: https://pt.theastrologypage.com/user-profile)

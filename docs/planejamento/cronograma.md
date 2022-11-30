@@ -2,9 +2,13 @@
 
 ## 1. Introdução
 
-Para este curso, foram avaliados os horários disponíveis para as reuniões semanais. Dessa forma foi definido que seriam às quintas-feiras, das 20h até 21h. Quantos aos cronogramas, foi levado em consideração o plano de ensino, os prazos das entregas, a capacidade produtiva e a dificuldade de cada etapa.
+&emsp;&emsp;Para este curso, foram avaliados os horários disponíveis para as reuniões semanais. Dessa forma foi definido que seriam às quintas-feiras, das 20h até 21h. Quantos aos cronogramas, foi levado em consideração o plano de ensino, os prazos das entregas, a capacidade produtiva e a dificuldade de cada etapa.
 
 ## 2. Cronograma Geral
+
+&emsp;&emsp;A tabela 1 apresenta as datas de cada etapa do projeto, apresentando uma breve descrição sobre cada uma das etapas.
+
+ <figcaption align="center">Tabela 1: Cronograma geral das etapas do projeto.</figcaption>
 
 | Etapa | Título                             |                                         Descrição                                         |   Início   |    Fim     |
 | :---: | ---------------------------------- | :---------------------------------------------------------------------------------------: | :--------: | :--------: |
@@ -17,14 +21,14 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |   7   | Pós-Rastreabilidade                |       Gerência de Desenvolvimento de Software orientada à _baseline_ de Requisitos        | 17/01/2023 | 23/01/2023 |
 |   8   | Apresentação final                 |                                   Conclusão do projeto                                    | 24/01/2023 | 01/02/2023 |
 
-<figure markdown >
-  <figcaption>Tabela 1: Cronograma geral das etapas do projeto.</figcaption>
-  <figcaption>Fonte: Elaboração própia</figcaption>
-</figure>
+  <figcaption align="center">Fonte: Elaboração própia</figcaption>
+
 
 ## 3. Cronograma por etapa
 
 ### 3.1 Etapa 1
+
+<figcaption align="center">Tabela 2: Cronograma da etapa 1 do projeto.</figcaption>
 
 | Data limite para entrega |                  Tarefa/Entrega                   |                Responsáveis                |            Revisores            | Data limite de revisão |
 | :----------------------: | :-----------------------------------------------: | :----------------------------------------: | :-----------------------------: | :--------------------: |
@@ -41,14 +45,12 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        17/11/2022        |                Rich Picture do app                | Alexia Naara, Lucas Soares e Luiza Esteves |  Iago Campelo e Marcus Martins  |       19/11/2022       |
 |        19/11/2022        |               Vídeo de apresentação               |                   Todos                    |         Luciano Freitas         |       21/11/2022       |
 
-<figure markdown >
-  <figcaption>Tabela 2: Cronograma da etapa 1 do projeto.</figcaption>
-  <figcaption>Fonte: Elaboração própia</figcaption>
-</figure>
+<figcaption align="center">Fonte: Elaboração própia</figcaption>
+
 
 ### 3.2 Etapa 2
 
-<!-- Mínimo de 3 técnicas de elicitação e 2 de priorização -->
+<figcaption align="center">Tabela 3: Cronograma da etapa 2 do projeto.</figcaption>
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
 | :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
@@ -63,13 +65,11 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        27/11/2022        |                             Técnica de Priorização 2                              |              |                 |       29/11/2022       |
 |        29/11/2022        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       30/11/2022       |
 
-<figure markdown >
-  <figcaption>Tabela 3: Cronograma da etapa 2 do projeto.</figcaption>
-  <figcaption>Fonte: Elaboração própia</figcaption>
-</figure>
+<figcaption align="center">Fonte: Elaboração própia</figcaption>
+
 
 ### 3.1 Etapa 3
-
+<figcaption align="center">Tabela 4: Cronograma da etapa 3 do projeto.</figcaption>
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
 | :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
 |        01/12/2022        | Planejamento da etapa 03: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
@@ -79,12 +79,12 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        07/12/2022        |                             Especificação Suplementar                             |              |                 |       09/12/2022       |
 |        12/12/2022        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       12/12/2022       |
 
-<figure markdown >
-  <figcaption>Tabela 4: Cronograma da etapa 3 do projeto.</figcaption>
-  <figcaption>Fonte: Elaboração própia</figcaption>
-</figure>
+<figcaption align="center">Fonte: Elaboração própia</figcaption>
+
 
 ### 3.1 Etapa 4
+
+<figcaption align="center">Tabela 5: Cronograma da etapa 4 do projeto.</figcaption>
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
 | :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
@@ -95,13 +95,13 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        29/12/2022        |                                   NFR Framework                                   |              |                 |       02/01/2023       |
 |        30/12/2022        | Planejamento da etapa 05: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        03/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       04/01/2023       |
+  
+<figcaption align="center">Fonte: Elaboração própia</figcaption>
 
-<figure markdown >
-  <figcaption>Tabela 5: Cronograma da etapa 4 do projeto.</figcaption>
-  <figcaption>Fonte: Elaboração própia</figcaption>
-</figure>
 
 ### 3.1 Etapa 5
+
+<figcaption align="center">Tabela 6: Cronograma da etapa 5 do projeto.</figcaption>
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
 | :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
@@ -109,12 +109,13 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        06/01/2023        | Planejamento da etapa 06: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        08/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       09/01/2023       |
 
-<figure markdown >
-  <figcaption>Tabela 6: Cronograma da etapa 5 do projeto.</figcaption>
-  <figcaption>Fonte: Elaboração própia</figcaption>
-</figure>
+
+<figcaption align="center">Fonte: Elaboração própia</figcaption>
+
 
 ### 3.1 Etapa 6
+
+<figcaption align="center">Tabela 7: Cronograma da etapa 6 do projeto.</figcaption>
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
 | :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
@@ -122,13 +123,13 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        12/01/2023        |                         Validação - Comprovação Informal                          |              |                 |       14/01/2023       |
 |        13/01/2023        | Planejamento da etapa 07: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        15/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       16/01/2023       |
+  
+<figcaption align="center">Fonte: Elaboração própia</figcaption>
 
-<figure markdown >
-  <figcaption>Tabela 7: Cronograma da etapa 6 do projeto.</figcaption>
-  <figcaption>Fonte: Elaboração própia</figcaption>
-</figure>
 
 ### 3.1 Etapa 7
+
+<figcaption align="center">Tabela 8: Cronograma da etapa 7 do projeto.</figcaption>
 
 | Data limite para entrega |                                  Tarefa/Entrega                                   | Responsáveis |    Revisores    | Data limite de revisão |
 | :----------------------: | :-------------------------------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
@@ -137,12 +138,12 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        19/01/2023        | Planejamento da etapa 08: Separação e distribuição das atividades para os membros |    Todos     |      Todos      |          ---           |
 |        22/01/2023        |                               Vídeo de apresentação                               |    Todos     | Luciano Freitas |       23/01/2023       |
 
-<figure markdown >
-  <figcaption>Tabela 8: Cronograma da etapa 7 do projeto.</figcaption>
-  <figcaption>Fonte: Elaboração própia</figcaption>
-</figure>
+<figcaption align="center">Fonte: Elaboração própia</figcaption>
+
 
 ### 3.1 Etapa 8
+
+<figcaption align="center">Tabela 9: Cronograma da etapa 8 do projeto.</figcaption>
 
 | Data limite para entrega |                        Tarefa/Entrega                         | Responsáveis |    Revisores    | Data limite de revisão |
 | :----------------------: | :-----------------------------------------------------------: | :----------: | :-------------: | :--------------------: |
@@ -151,16 +152,14 @@ Para este curso, foram avaliados os horários disponíveis para as reuniões sem
 |        26/01/2023        |     Complemento: técnicas e métodos utilizadas no projeto     |              |                 |       28/01/2023       |
 |        26/01/2023        |           Complemento: tabela dos artefatos criados           |              |                 |       28/01/2023       |
 |        30/01/2023        |                     Vídeo de apresentação                     |    Todos     | Luciano Freitas |       01/02/2023       |
-
-<figure markdown >
-  <figcaption>Tabela 9: Cronograma da etapa 6 do projeto.</figcaption>
-  <figcaption>Fonte: Elaboração própia</figcaption>
-</figure>
+ 
+<figcaption align="center">Fonte: Elaboração própia</figcaption>
 
 ## 4. Histórico de Versão
 
-| Versão |    Data    |           Modificações            |            Autor(es)             | Revisor(es)  |
-| :----: | :--------: | :-------------------------------: | :------------------------------: | :----------: |
-|  1.0   | 09/11/2022 |     Criação da aba Cronograma     | Marcus Martins e Luciano Freitas | Iago Campelo |
-|  2.0   | 17/11/2022 | Alteração no padrão do Cronograma | Marcus Martins e Luciano Freitas | Iago Campelo |
-|  3.0   | 28/11/2022 |    Atualiza Fontes nas tabelas    |           Lucas Felipe           |    todos     |
+|    Data    | Versão |                          Modificações                           |    Autor(es)     | Revisor(es) |
+| :--------: | :----: | :-------------------------------------------------------------: | :--------------: | :---------: |
+| 09/11/2022 |  1.0   |                    Criação da aba Cronograma                    | Marcus e Luciano |    Iago     |
+| 17/11/2022 |  2.0   |                Alteração no padrão do Cronograma                | Marcus e Luciano |    Iago     |
+| 28/11/2022 |  2.1   |                   Atualiza Fontes nas tabelas                   |      Lucas       |   Luciano   |
+| 29/11/2022 |  2.2   | Padronização: histórico de versão e legendas/fontes das figuras |     Luciano      |   QWERTY    |

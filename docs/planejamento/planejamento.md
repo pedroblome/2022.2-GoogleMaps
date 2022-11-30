@@ -72,15 +72,15 @@
 4. Ao final do documento deixaremos no histórico de versão, a data com a versão executada, os autores e a descrição da atividade feita. Mais além, serão apresentados também os revisores de cada uma destas atividades;
 5. Após a revisão, caso o PR esteja de acordo com o que deve ser feito, além de correções menores a serem feitas, a solicitação é aceita e as mudanças irão para a branch principal.
 
-## 3. Cronograma
+## 3. Ferramentas
 
-## 4. Ferramentas
-
-### 4.1 Introdução
+### 3.1 Introdução
     
 &emsp;&emsp; As ferramentas serão softwares que serão utilizados pela equipe com os objetivos de melhorar o desenvolvimento, comunicação e o gerenciamento do projeto. 
 
-### 4.2 Ferramentas utilizadas
+### 3.2 Ferramentas utilizadas
+
+&emsp;&emsp; Todas as ferramentas utilizadas pelo grupo estão descritas logo abaixo na tabela 1.
 
 <div style="text-align: center">
 <p>Tabela 1: Ferramentas utilizadas no projeto</p>
@@ -96,14 +96,17 @@
 |       ![logo VSCode](../assets/logos/VSCode.png){width="128" height="128"}        | Visual Code Studio | Utilizado para elaboração dos documentos.                                                                   |
 |      ![logo Figma](../assets/logos/figma-logo.png){width="128" height="128"}      |       Figma        | Utilizado para elaborar os protótipos de média e alta fidelidade                                            |
 
+<figcaption align="center">Fonte: Elaboração própria</figcaption>
+
 ## 5. Histórico de versão
 
 | Data  | Versão | Modificações | Autor(es) | Revisor(es) |
 | :---: | :----: | :----------: | :-------: |: -----:    |
-| 08/11/2022 | 1.0 | Criação da página e inserção de metodologias/política de branches e commits | Iago Campelo e Lucas Felipe | Luciano Freitas e Luiza Esteves |
-| 15/11/2022 | 2.0| Criação da página de ferramentas | Lucas Felipe | Marcus Martins|
-| 23/11/2022 | 3.0| Atualização da página de ferramentas | Lucas Felipe | Marcus Martins|
-      
+| 08/11/2022 | 1.0 | Criação da página e inserção de metodologias/política de branches e commits | Iago e Lucas | Luciano e Luiza |
+| 15/11/2022 | 2.0 | Criação da página de ferramentas | Lucas | Marcus|
+| 23/11/2022 | 3.0 | Atualização da página de ferramentas | Lucas | Marcus|
+| 28/11/2022 | 3.1 | Reparo das imagens que estavam bugadas no gitpages | Luciano | Lucas |
+| 29/11/2022 | 3.2 | Padronização das legendas/fontes e texto descritivo da tabela | Luciano | QWERTY |
 
 ## 6. Bibliografia
 
