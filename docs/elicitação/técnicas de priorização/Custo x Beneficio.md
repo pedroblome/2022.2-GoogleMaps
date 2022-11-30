@@ -4,7 +4,7 @@
 
 &emsp;&emsp;Esse método de priorização de projetos é o mais fácil de compreender, afinal, muitas pessoas já estão familiarizadas com o termo “custo x benefício”. Nesse caso, a matriz ajuda a esclarecer qual o valor de um projeto e a relação disso com o resultado esperado do projeto. Para fazer esse balanço, utilizamos uma matriz dividida por cores e quadrantes, assim:
 
-![Custo x Beneficio](/assets/custo_x_beneficio.png)
+![Custo x Beneficio](../../assets/custo_x_beneficio.png)
 
 Com a matriz custo x benefício não é preciso calcular nada, apenas pegar os dados previstos para o seu projeto e encaixá-los nos quadrantes coloridos.
 
@@ -15,14 +15,16 @@ A lógica das cores nesse método, é:
 - Verde: se trata de um projeto com baixo custo, mas que não trará muitos benefícios;
 - Azul: é a melhor das opções, pois representa os melhores resultados possíveis para um projeto.
 
-## Bibliografia
+## 2. Histórico de Versão
 
-Software Requirements, 3ª edição - Karl Wiegers & Joy Beatty. Acesso em nov. de 2022.
+| Data       | Versão | Modificações                         | Autor(es)     | Revisor(es) |
+| ---------- | ------ | ------------------------------------ | ------------- | ----------- |
+| 27/11/2022 | 1.0    | Adiciona técnicas de priorização     | Iago e Marcus | Lucas       |
+| 28/11/2022 | 2.0    | Padronização do histórico de versões | Lucas         | Luciano     |
 
-[Priorização de Projetos](https://rockcontent.com/br/blog/priorizacao-de-projetos/)
 
-## Histórico de Versão
+## 3. Bibliografia
 
-| Versão | Data       | Modificações                       | Autor          | Revisor      |
-| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
-| 0.1    | 27/11/2022 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |
+> Software Requirements, 3ª edição - Karl Wiegers & Joy Beatty. Acesso em nov. de 2022.
+
+> CONTENT, Rock. Saiba quais são as 6 principais metodologias usadas para priorização de projetos. Disponível em: https://rockcontent.com/br/blog/priorizacao-de-projetos/ Acesso em nov. de 2022.
