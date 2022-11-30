@@ -14,12 +14,15 @@ Cada um desses itens deve receber uma nota **— de 1 a 5 —** conforme sua rel
 
 Depois de somar a nota de cada tópico, use a pontuação total para comparar com as notas de outras necessidades em sua agenda. Pronto! Você já sabe o que precisa ser feito antes e o que pode esperar.
 
-## Bibliografia
-- [Matriz Básico](https://rockcontent.com/br/blog/matriz-basico/)
+## 2. Histórico de Versão
 
+| Data       | Versão | Modificações                         | Autor(es)     | Revisor(es) |
+| ---------- | ------ | ------------------------------------ | ------------- | ----------- |
+| 27/11/2022 | 1.0    | Adiciona técnicas de priorização     | Iago e Marcus | Lucas       |
+| 28/11/2022 | 2.0    | Padronização do histórico de versões | Lucas         | Luciano     |
 
-## Histórico de Versão
+## 3. Bibliografia
 
-| Versão | Data       | Modificações                       | Autor          | Revisor      |
-| ------ | ---------- | ---------------------------------- | -------------- | ------------ |
-| 0.1    | 27/11/2022 | Adiciona técnicas de priorização | Iago Campelo e Marcus Martins | Lucas Felipe |
+> CONTENT, Rock. Saiba quais são as 6 principais metodologias usadas para priorização de projetos. Disponível em: https://rockcontent.com/br/blog/priorizacao-de-projetos/ Acesso em nov. de 2022.
+
+> RIBEIRO, Renato. Matriz BASICO: descubra o que é e como ela pode ajudar o seu negócio. Disponível em: https://rockcontent.com/br/blog/matriz-basico/. Acesso em nov. de 2022.
