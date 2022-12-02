@@ -72,39 +72,47 @@
 4. Ao final do documento deixaremos no histórico de versão, a data com a versão executada, os autores e a descrição da atividade feita. Mais além, serão apresentados também os revisores de cada uma destas atividades;
 5. Após a revisão, caso o PR esteja de acordo com o que deve ser feito, além de correções menores a serem feitas, a solicitação é aceita e as mudanças irão para a branch principal.
 
-## 3. Cronograma
+## 3. Ferramentas
 
-## 4. Ferramentas
+### 3.1 Introdução
 
-### 4.1 Introdução
-    
-&emsp;&emsp; As ferramentas serão softwares que serão utilizados pela equipe com os objetivos de melhorar o desenvolvimento, comunicação e o gerenciamento do projeto. 
+&emsp;&emsp; As ferramentas serão softwares que serão utilizados pela equipe com os objetivos de melhorar o desenvolvimento, comunicação e o gerenciamento do projeto.
 
-### 4.2 Ferramentas utilizadas
+### 3.2 Ferramentas utilizadas
+
+&emsp;&emsp; Todas as ferramentas utilizadas pelo grupo estão descritas logo abaixo na tabela 1.
 
 <div style="text-align: center">
 <p>Tabela 1: Ferramentas utilizadas no projeto</p>
 </div>
 
-|                                   Logo                                   |   Ferramenta    | Finalidade                                                                                                  |
-| :----------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
-|     <img  width="128" height="128" src="/assets/logos/github-logo.png">      |     Github      | Será utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos.                |
-|     <img width="128" height="128" src="/assets/logos/telegram-logo.png">     |    Telegram     | Utilizado para comunicação entre o grupo e com o monitor                                                    |
-|      <img width="200" height="128" src="/assets/logos/lucid-logo.png">       |   Lucidchart    | Será utilizado para a criação dos diversos diagramas e esquemas necessários para a modelagem dos Requisitos |
-|       <img  width="135" height="135" src="/assets/logos/obs-logo.jpg">       |   OBS Studio    | Utilizado para realizar as gravações das apresentações dos pontos de controle                               |
-| <img  width="128" height="128" src="/assets/logos/microsoft-teams-logo.png"> | Microsoft Teams | Utilizado para as apresentações e reuniões do time.                                                         |
-|      <img width="128" height="128" src="/assets/logos/figma-logo.png">       |      Figma      | Utilizado para elaborar os protótipos de média e alta fidelidade                                            |
+|                                            Logo                                             |         Ferramenta         | Finalidade                                                                                                  |
+| :-----------------------------------------------------------------------------------------: | :------------------------: | ----------------------------------------------------------------------------------------------------------- |
+|          ![logo github](../assets/logos/github-logo.png){width="128" height="128"}          |           Github           | Será utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos.                |
+|        ![logo telegram](../assets/logos/telegram-logo.png){width="128" height="128"}        |          Telegram          | Utilizado para comunicação entre o grupo e com o monitor                                                    |
+|        ![logo lucidchart](../assets/logos/lucid-logo.png){width="200" height="128"}         |         Lucidchart         | Será utilizado para a criação dos diversos diagramas e esquemas necessários para a modelagem dos Requisitos |
+|           ![logo youtube](../assets/logos/youtube.png){width="135" height="135"}            |          Youtube           | Utilizado para armazenar as gravações das apresentações dos pontos de controle                              |
+|      ![logo Teams](../assets/logos/microsoft-teams-logo.png){width="128" height="128"}      |      Microsoft Teams       | Utilizado para as apresentações e reuniões do time.                                                         |
+|            ![logo VSCode](../assets/logos/VSCode.png){width="128" height="128"}             |     Visual Code Studio     | Utilizado para elaboração dos documentos.                                                                   |
+|           ![logo Figma](../assets/logos/figma-logo.png){width="128" height="128"}           |           Figma            | Utilizado para elaborar os protótipos de média e alta fidelidade                                            |
+| ![logo thispersondoesnotexist](../assets/logos/fake_ai_faces.png){width="128" height="128"} | This Person Does Not Exist | Inteligência artificial utilizada para gerar imagens de pessoas aleatórias para a criação de personas       |
+
+<figcaption align="center">Fonte: Elaboração própria</figcaption>
 
 ## 5. Histórico de versão
 
-| Data  | Versão | Descrição | Autor | Revisores |
-| :---: | :----: | :-------: | :---: |: -----:    |
-| 08/11/2022 | 0.1 | Criação da página e inserção de metodologias/política de branches e commits | Iago Campelo e Lucas Felipe | Luciano Freitas e Luiza Esteves |
-| 15/11/2022 | 0.2 | Criação da página de ferramentas | Lucas Felipe | Marcus Martins|
-      
+| Data  | Versão | Modificações | Autor(es) | Revisor(es) |
+| :---: | :----: | :----------: | :-------: |: -----:    |
+| 08/11/2022 | 1.0 | Criação da página e inserção de metodologias/política de branches e commits | Iago e Lucas | Luciano e Luiza |
+| 15/11/2022 | 2.0 | Criação da página de ferramentas | Lucas | Marcus|
+| 23/11/2022 | 3.0 | Atualização da página de ferramentas | Lucas | Marcus|
+| 28/11/2022 | 3.1 | Reparo das imagens que estavam bugadas no gitpages | Luciano | Lucas |
+| 29/11/2022 | 3.2 | Padronização das legendas/fontes e texto descritivo da tabela | Luciano | Iago |
 
 ## 6. Bibliografia
 
-- [Scrum](https://www.atlassian.com/br/agile/scrum)
-- [eXtreme Programming](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498#Programming)
-- [KanBan](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+> DRUMOND, Claire. O que é o scrum?. Disponível em: https://www.atlassian.com/br/agile/scrum. Acesso em nov. de 2022.
+
+> MANOEL. Extreme Programming – Conceitos e Práticas. Disponível em: https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498#Programming. Acesso em nov. de 2022.
+
+> Kanbanize. What Is Kanban? Explained for Beginners. Disponível em: https://kanbanize.com/kanban-resources/getting-started/what-is-kanban. Acesso em nov. de 2022.

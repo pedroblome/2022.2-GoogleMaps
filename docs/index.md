@@ -23,12 +23,8 @@
 
 ## 4. Histórico de versão
 
-|    Data    | Versão |        Descrição        |            Autor            | Revisores  |
-| :--------: | :----: | :---------------------: | :-------------------------: | :--------: |
-| 28/10/2022 |  0.1   |    Criação da página    |       Marcus Martins        |    Luiza   |
-| 16/11/2022 |  0.2   | Ajustes na tela inicial | Lucas Felipe e Iago Campelo |Alexia Naara|
-| 17/11/2022 |  0.3   | Alteração do aplicativo  |        Alexia Naara         |Marcus Martins|
-
-## 5. Bibliografia
-
-- [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+|    Data    | Versão |      Modificações       |   Autor(es)   | Revisor(es) |
+| :--------: | :----: | :---------------------: | :-----------: | :---------: |
+| 28/10/2022 |  1.0   |    Criação da página    |    Marcus     |    Luiza    |
+| 16/11/2022 |  2.0   | Ajustes na tela inicial | Lucas  e Iago |   Alexia    |
+| 17/11/2022 |  3.0   | Alteração do aplicativo |    Alexia     |   Marcus    |
