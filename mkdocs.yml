@@ -8,9 +8,21 @@ theme:
     text: Roboto
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes
-    - toc.integrate
-
+    - toc.follow
+    
 markdown_extensions:
   - attr_list
   - md_in_html
+
+plugins:
+  - search
+  - include_dir_to_nav
+
+docs_dir: './docs'
+
+nav:
+  - Início: index.md
+  - Planejamento: planejamento
+  - Encontros: encontros

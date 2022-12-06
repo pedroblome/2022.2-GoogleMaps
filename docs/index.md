@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 ## 1. Introdução
 
 &emsp;&emsp;Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o Google Maps, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
